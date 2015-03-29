@@ -1,0 +1,16 @@
+{
+    "contents" : "require(RgoogleMaps)\nlibrary(sp)\nlibrary(dismo)\n\ndf$geocode_string = with(df, paste(city, state, country, sep = \", \"))\ndf$geocode_string = \"Seattle, WA, USA\"\ncoords_latlong = geocode(df$geocode_string)\ngeocode(\"Gopalpur, India\")\ngeocode(\"Mumbai, India\")\ngeocode(\"New  Delhi, India\")\n\n\n#define the part of the world you want to plot. Here the area around my former home.\nlat_c<-51.47393\nlon_c<-7.22667\nbb<-qbbox(lat = c(lat_c[1]+0.01, lat_c[1]-0.01), lon = c(lon_c[1]+0.03, lon_c[1]-0.03))\n\nlat=c(48,64) \nlon=c(-140,-110) \ncenter=c(mean(lat), mean(lon))\nzoom=5\nterrmap=GetMap(center=center, zoom=zoom, maptype=\"terrain\", destfile = \"terrain.png\")\ntmp <- PlotOnStaticMap(terrmap, lat = NA, lon = NA,\n                       col=c( 'red','blue','green'), add=FALSE)\n\ndata(\"meuse\", package = \"sp\", envir = environment())\n\n\nm<-bubbleMap(meuse,zcol='zinc');\n# download the tile from OSM\nOSM.map<-GetMap.OSM(lonR=bb$lonR, latR=bb$latR, scale = 20000, destfile=\"bochum.png\")\nimage(OSM.map)\n#Add some coordinates\nlat<- c(51.47393, 51.479021)\nlon<- c(7.22667, 7.222526)\nval <- c(0, 255)\n\n#function to adjust the coordinates\nlat_adj<-function(lat, map){(map$BBOX$ll[1]-lat)/(map$BBOX$ll[1]-map$BBOX$ur[1])}\nlon_adj<-function(lon, map){(map$BBOX$ll[2]-lon)/(map$BBOX$ll[2]-map$BBOX$ur[2])}\n\nPlotOnStaticMap(OSM.map, lat = lat_adj(lat, OSM.map), lon = lon_adj(lon, OSM.map), col=rgb(255,0, val,90,maxColorValue=255),pch=16,cex=4)\n\ndev.print(jpeg,\"test.jpeg\", width=1204, height=644, units=\"px\")",
+    "created" : 1391991589864.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "72788021",
+    "id" : "C5A98CD9",
+    "lastKnownWriteTime" : 1392043622,
+    "path" : "~/Projects/R/PaulAllen/geo.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

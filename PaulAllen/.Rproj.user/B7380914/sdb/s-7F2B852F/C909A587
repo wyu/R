@@ -1,0 +1,16 @@
+{
+    "contents" : "## read the source data and prepare it for the analysis\nprepareData=function(datfile)\n{\n  twits   = read.csv(datfile ,stringsAsFactors=TRUE) \n  ## split the time stamp into separate columns\n  date    = data.frame(do.call('rbind', strsplit(as.character(twits$Time),'/',fixed=TRUE))); \n  hr.min  = data.frame(do.call('rbind', strsplit(as.character(date$X3),' ',fixed=TRUE))); \n  min.sec = data.frame(do.call('rbind', strsplit(as.character(hr.min$X2),':',fixed=TRUE))); \n  time    = cbind(date[,c(1,2)], hr.min[,1], min.sec)\n  colnames(time) = c('Month','Day','Hour','Min','Sec')\n  twits = cbind(twits, time)\n  \n  # reformat the hash tags\n  co.Gopalpur = as.matrix(geocode(\"Gopalpur, India\")[  ,c('longitude','latitude')])\n  co.Mumbai   = as.matrix(geocode(\"Mumbai, India\")[    ,c('longitude','latitude')])\n  co.NewDelhi = as.matrix(geocode(\"New  Delhi, India\")[,c('longitude','latitude')])\n  \n  twits$HashTag=NA; twits$fromMumbai=NA; twits$fromGopalpur=NA; twits$NewDelhi=NA\n  twits$AcctGPS_lat=NA; twits$AcctGPS_long=NA\n  tws = list(); k=0;\n  for (i in seq(1:dim(twits)[1])) \n  {      \n    # populate the distances\n    if (is.na(twits[i,]$Tweet_GPS_long)==F&is.na(twits[i,]$Tweet_GPS_lat)==F)\n    {\n      co = matrix(c(twits[i,]$Tweet_GPS_long, twits[i,]$Tweet_GPS_lat), ncol=2);\n      twits[i,]$fromNewDelhi=spDistsN1(co, co.NewDelhi[1,], longlat=TRUE)/1.6\n      twits[i,]$fromMumbai  =spDistsN1(co, co.Mumbai[  1,], longlat=TRUE)/1.6\n      twits[i,]$fromGopalpur=spDistsN1(co, co.Gopalpur[1,], longlat=TRUE)/1.6\n    }\n    else\n    {\n#       co = geocode(twits[i,]$Twitter_User_Account_Location);\n#       twits[i,]$AcctGPS_lat =co[1,]$latitude; \n#       twits[i,]$AcctGPS_long=co[1,]$longitude;\n    }\n    htags=strsplit(as.character(twits$Hashtags_In_Text[i]), ',');\n    for (j in seq(1:length(htags[[1]])))\n    {\n      row = twits[i,];\n      k   = k+1;\n      row$HashTag = tolower(htags[[1]][j]);\n      tws[[k]] = row\n    }  \n  }\n  tweets = do.call(rbind, tws);\n  tweets$HashTag = as.factor(tweets$HashTag)\n  tweets$Month   = as.factor(tweets$Month)\n  tweets$Day     = as.factor(tweets$Day)\n  tweets$Hour    = as.factor(tweets$Hour)\n  tweets$Min     = as.factor(tweets$Min)\n  \n  rm(date,hr.min,min.sec,time,row,i,j,k,tws,htags)  \n  return(tweets);\n}",
+    "created" : 1392170273652.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2774964884",
+    "id" : "C909A587",
+    "lastKnownWriteTime" : 1392177813,
+    "path" : "~/Projects/R/PaulAllen/prepareData.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

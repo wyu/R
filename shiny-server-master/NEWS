@@ -1,0 +1,47 @@
+shiny-server 0.3.6
+--------------------------------------------------------------------------------
+
+* Support for node-webkit-agent (https://github.com/c4milo/node-webkit-agent).
+  Use by setting DEBUG_PORT environment variable to a port number, then follow
+  the instructions on the node-webkit-agent GitHub page under "Connecting to the
+  agent". (At the time of this writing, node-webkit-agent only supports Node
+  v0.8.x, not v0.10.x.)
+
+* Fix slow memory leak when checking for restart.txt that doesn't exist.
+
+shiny-server 0.3.5
+--------------------------------------------------------------------------------
+
+* Fix crash on Node 0.10.x when serving static files.
+
+* Fix slow memory leak and log file descriptor leak.
+
+shiny-server 0.3.4
+--------------------------------------------------------------------------------
+
+* You can now force an app to restart by calling "touch restart.txt" in the app
+  directory root. Existing sessions will not be terminated, but the next session
+  to be initiated will cause a new R process to be launched.
+
+* shiny-server now passes its version number to R processes it launches.
+
+shiny-server 0.3.3
+--------------------------------------------------------------------------------
+
+* Remove pausing which is causing corruption in proxied HTTP request bodies.
+
+shiny-server 0.3.2
+--------------------------------------------------------------------------------
+
+* Make shiny-server compatible with httpuv package which we are introducing to
+  Shiny.
+
+shiny-server 0.3.1
+--------------------------------------------------------------------------------
+
+* Fix crashing bug when "req" object has no address.
+
+shiny-server 0.3.0
+--------------------------------------------------------------------------------
+
+* Initial release.

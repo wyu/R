@@ -1,0 +1,16 @@
+{
+    "contents" : "PerCapitaGDP=function()\n{\n  library(lattice)\n  library(reshape)\n  \n  src.dir = \"/home/wyu/Projects/R/econ2014/data/\"  \n  countries = read.csv(paste(src.dir, \"mpd_2013-01, GDP per capita (1990 Int GK$)  by country.csv\", sep=\"\") ,stringsAsFactors=FALSE)\n  countries = countries[-c(164:1013)]; countries[countries==\"\"]=NA\n  countries = melt(countries, id.vars=c(\"Year\",\"Total.World\"), na.rm=TRUE)\n  countries$value=as.numeric(sub(\",\", \"\", as.character(countries$value))); \n  countries$Total.World=as.numeric(sub(\",\", \"\", as.character(countries$Total.World))); \n  colnames(countries)=c(\"Year\",\"World\",\"Country\",\"GDPpC\");\n  \n  #compute the rank in the same year using the available data\n  \n  xyplot(GDPpC/World~Year, group=Country,data=droplevels(subset(countries, Year>1950&Country %in% c(\"China\",\"USA\",\"Taiwan\", \"Hong.Kong\"))), \n         type=c(\"p\",\"l\"), auto.key=TRUE, scales=list(y=c(log=TRUE, equispaced.log=F)))\n  \n  \n  \n}",
+    "created" : 1390168381300.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "343849343",
+    "id" : "DD5EEF55",
+    "lastKnownWriteTime" : 1390186231,
+    "path" : "~/Projects/R/econ2014/codes/PerCapitaGDP.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

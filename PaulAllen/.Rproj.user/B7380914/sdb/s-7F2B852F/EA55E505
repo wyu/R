@@ -1,0 +1,15 @@
+{
+    "contents" : "prepareMSMS=function(datafile, name)\n{\n  #residuals = read.csv(paste(src.dir, datfile, \"_clust.csv\",   sep=\"\") ,stringsAsFactors=FALSE) \n  members   = read.csv(paste(datafile, \"_members.csv\",    sep=\"\") ,stringsAsFactors=TRUE) \n  peptides  = read.csv(paste(datafile, \"_precursors.csv\", sep=\"\") ,stringsAsFactors=TRUE) \n  \n  msms = subset(members, type==\"msms\"&spec==name)\n  msms$id = paste(\"id\", msms$msid, sep=\"\")\n  msms$type = NULL; msms$spec = NULL; msms$zscore = NULL; msms$ai = NULL; msms$msid = NULL\n  md = melt(msms, id=c(\"id\", \"m.z\"))\n  spectra = cast(md, m.z ~ id)\n  # set the m/z as the rownames\n  rownames(spectra) = spectra$m.z; spectra$m.z = NULL\n    \n  # construct the data frame for the glm model\n  members$id = paste(\"ms\", members$msid, sep=\"\")\n  members$zscore = NULL; members$ri = NULL; members$msid = NULL\n  msms = subset(members, type==\"msms\"&spec==name)\n  precursors = subset(members, type==\"precursors\"&spec==name)\n  \n  msms$type = NULL; precursors$type = NULL; msms$spec = NULL; precursors$spec = NULL;\n  p = precursors\n  p$id = NULL; p$row.names = NULL\n  p = aggregate(p, by=list(mz = p$m.z), sum)\n  p$id = \"combined\"\n  p = p[,c(1,3,4)]\n  colnames(p)[1] = \"m.z\"\n  precursors = rbind(precursors, p)\n  \n  #mzs = unique(msms$m.z)\n  #for (mz in mzs)\n  #{\n  #  msms[msms$m.z==mz,]$ai = as.integer(round(1000 * msms[msms$m.z==mz,]$ai / sum(msms[msms$m.z==mz,]$ai)))\n  #}\n  # normzlie the peptides to the sum of intensities  \n  peptides[,2:length(peptides)] = peptides[,2:length(peptides)] / rowSums(peptides[,2:length(peptides)])\n  colnames(peptides)[1] = \"id\"\n \n  # prepare the precursor isolation\n  \n  \n  #m=merge(msms, peptides, by.x=\"id\")\n  #s=t(as.matrix(spectra))\n  #d = list(specs=s, msms=m)\n  return (list(specs=spectra, precs = precursors, msms=merge(msms, peptides, by.x=\"id\")))\n}",
+    "created" : 1391921506060.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "942494732",
+    "id" : "EA55E505",
+    "lastKnownWriteTime" : 1371109968,
+    "path" : "~/Projects/R/ms/codes/prepareMSMS.r",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

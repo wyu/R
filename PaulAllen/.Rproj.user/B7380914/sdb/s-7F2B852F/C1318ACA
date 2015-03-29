@@ -1,0 +1,16 @@
+{
+    "contents" : "cor.diff.test = function(r1, r2, n1, n2, alternative = c(\"two.sided\", \"less\", \"greater\")) {\n  \n  Z1 = 0.5 * log( (1+r1)/(1-r1) )\n  Z2 = 0.5 * log( (1+r2)/(1-r2) )\n  \n  diff = Z1 - Z2\n  SEdiff = sqrt( 1 / (n1 - 3) + 1 / (n2 - 3))\n  diff.Z = diff / SEdiff\n  \n  if (alternative == \"less\") {\n    return(pnorm(diff.Z, lower.tail=F))\n  } else if (alternative == \"greater\") {\n    return(pnorm(-diff.Z, lower.tail=F))\n  } else if (alternative == \"two.sided\") {\n    return(2 * pnorm( abs(diff.Z), lower.tail=F))\n  } else {\n    warning(paste(\"Invalid alterantive\", alternative), domain=NA)\n    return(NA)\n  }\n}\n\nquadratic=function(coeff) {\n  a=coeff[1]\n  b=coeff[2]\n  c=coeff[3]\n  d=b^2 - (4*a*c)\n  cat(\"The discriminant is: \",d,\"\\n\")\n  if(d < 0) cat(\"There are no real roots. \",\"\\n\")\n  if(d >= 0){\n    root1=(-b + sqrt(d))/(2*a)\n    root2=(-b-sqrt(d))/(2*a)\n    cat(\"root1: \",root1,\"\\n\")\n    cat(\"root2: \",root2,\"\\n\")\n  }\n}",
+    "created" : 1393032054762.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3897695789",
+    "id" : "C1318ACA",
+    "lastKnownWriteTime" : 1393485872,
+    "path" : "~/Projects/R/PaulAllen/cor.diff.test.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

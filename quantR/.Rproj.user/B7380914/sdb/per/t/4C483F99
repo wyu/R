@@ -1,0 +1,16 @@
+{
+    "contents" : "#install.packages(\"Quandl\")\n#install.packages(\"devtools\")\nlibrary(devtools)\n#install_github('R-package','quandl')\nlibrary(Quandl)\n# the auth token\nQuandl.auth(\"yU7dAjDby3DhzodRmqUL\")\n\nlibrary(lattice)\n\nmydata = Quandl(\"NSE/OIL\")",
+    "created" : 1379179325490.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1729486730",
+    "id" : "4C483F99",
+    "lastKnownWriteTime" : 1379376064,
+    "path" : "~/Projects/R/quantR/codes/startup.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

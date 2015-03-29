@@ -1,0 +1,5 @@
+obs2 <- read.table(header=T, text='number  size type\n1   big  cat\n2 small  dog\n3 small  dog\n4   big  dog\n5   medium  dog\n6   big  tiger')
+merge(observations, animals, "size")
+merge(obs2, animals, "size")
+merge(obs2, animals, all=T, "size")
+merge(animals, obs2, by=c("size", "type"))

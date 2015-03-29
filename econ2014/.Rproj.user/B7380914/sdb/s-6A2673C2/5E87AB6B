@@ -1,0 +1,15 @@
+{
+    "contents" : "qcRunThroughput=function()\n{\n  library(lattice)\n  library(reshape)\n\n  #thro = read.csv(stringsAsFactors=F, row.names=NULL, \"/home/wyu/Projects/R/data/sputum_thro_59881.csv\")\n  \n  dir = \"/home/wyu/Projects/R/data/ms.qc\"\n  fileNames = list.files(dir)\n  \n  rawData = lapply(fileNames, function(fileName){read.csv(paste(dir,\"/\",fileName,sep=\"\"),stringsAsFactors=FALSE)})\n  names(rawData) = sub(\".csv\",\"\",fileNames)\n  \n  thro = do.call(\"rbind\", rawData); rm(rawData, fileNames)\n\n  # remove the row col\n  thro$row     = NULL\n  # set the default loading to 1ug for the sputum samples\n  thro[thro$id.prj==2862&is.na(thro$loading),]$loading = 1\n\n  # convert the columns\n  thro$id.run  = as.factor(thro$id.run)\n  thro$id.prj  = as.factor(thro$id.prj)\n  thro$id.expt = as.factor(thro$id.expt)\n  thro$rt.pct  = as.numeric(thro$rt.pct)\n  thro$rt      = as.numeric(thro$rt)\n  thro$width   = as.numeric(thro$width)  \n  thro$annot   = as.logical(thro$annot)\n  thro$loading = as.logical(thro$loading)\n  \n  # prepare the list of runs\n  md = melt(thro, id=c(\"id.run\", \"id.prj\", \"id.expt\", \"rt\", \"rt.pct\", \"slice\", \"loading\", \"annot\", \"name\", \"desc\", \"width\"))\n  runs = cast(md, id.run+id.expt+id.prj+name+desc+loading ~ .)\n    \n  # LC peak width\n  xyplot(pkw ~ rt|desc, group = loading, data=thro, subset=id.prj==2862)\n  # apex of LCMS\n  xyplot(apex ~ rt|name, data=thro, subset=id.prj==2862)\n  # apex of LCMS by loading\n  xyplot(apex ~ rt|desc, data=thro, subset=id.prj==2862)\n  # does higher loading produce more peptides?\n  xyplot(err.n ~ rt.pct|desc, group=name, data=thro, subset=annot==TRUE&id.expt %in% c(34278,34908,34909,34910))\n  xyplot(err.n ~ rt.pct|desc, group=name, data=thro, subset=annot==TRUE&id.run %in% c(73254,73256,73258))\n  xyplot(err.n ~ log(apex)|desc, group=name, data=thro, subset=annot==TRUE&id.run %in% c(73254,73256,73258))\n  # does higher loading produce more peptides?\n  xyplot(err.n ~ rt|desc, data=thro, subset=id.prj==2862)\n  \n  newdata <- cast(md, id.run + rt + slice + val + annot ~ variable)\n  j1 = subset(thro, slice==\"mw\"&annot==TRUE)\n  j2 = cbind(subset(j1, stat==\"apex\")$val, subset(j1, stat==\"tic\")$val)\n  xyplot(pkw ~ rt|name, data=thro)\n  xyplot(val~rt.pct|name, data=junk, type=c(\"p\",\"l\"), scales=\"free\")\n  xyplot(val~rt.pct|stat, data=subset(thro, slice==\"mw\"), group=name, type=c(\"p\",\"l\"), scales=\"free\", auto.key=TRUE)\n  xyplot(val/width~rt.pct|stat, data=subset(thro, slice==\"slot\"), group=name, type=c(\"p\",\"l\"), scales=\"free\", auto.key=TRUE)\n}",
+    "created" : 1390168652474.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1803520897",
+    "id" : "5E87AB6B",
+    "lastKnownWriteTime" : 1368307545,
+    "path" : "~/Projects/R/econ2014/codes/qcRunThroughPut.r",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

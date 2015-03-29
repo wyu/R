@@ -1,0 +1,1519 @@
+row,id,name,desc,rt.pct,rt,width,slice,stat,val
+72635_0,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',0.0,0.0,5.00,mw,msms,38.0
+72635_0,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',0.0,0.0,5.00,mw,apex,97570.74059999998
+72635_0,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',0.0,0.0,5.00,mw,annot,11.0
+72635_0,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',0.0,0.0,2.40,slot,msms,26.0
+72635_0,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',0.0,0.0,2.40,slot,apex,69617.72269999998
+72635_0,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',0.0,0.0,2.40,slot,annot,9.0
+72635_2,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',2.0,2.4,5.00,mw,msms,91.0
+72635_2,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',2.0,2.4,5.00,mw,apex,715369.8357
+72635_2,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',2.0,2.4,5.00,mw,annot,26.0
+72635_2,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',2.0,2.4,2.40,slot,msms,57.0
+72635_2,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',2.0,2.4,2.40,slot,apex,629758.9630000001
+72635_2,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',2.0,2.4,2.40,slot,annot,17.0
+72635_4,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',4.0,4.8,5.00,mw,msms,81.0
+72635_4,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',4.0,4.8,5.00,mw,apex,660177.2048
+72635_4,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',4.0,4.8,5.00,mw,annot,17.0
+72635_4,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',4.0,4.8,2.40,slot,msms,16.0
+72635_4,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',4.0,4.8,2.40,slot,apex,30917.043400000006
+72635_4,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',4.0,4.8,2.40,slot,annot,1.0
+72635_6,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',6.0,7.2,5.00,mw,msms,188.0
+72635_6,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',6.0,7.2,5.00,mw,apex,3.47518664245E7
+72635_6,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',6.0,7.2,5.00,mw,annot,43.0
+72635_6,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',6.0,7.2,2.40,slot,msms,73.0
+72635_6,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',6.0,7.2,2.40,slot,apex,2332662.4431
+72635_6,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',6.0,7.2,2.40,slot,annot,9.0
+72635_8,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',8.0,9.6,5.00,mw,msms,380.0
+72635_8,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',8.0,9.6,5.00,mw,apex,3.342537987586002E8
+72635_8,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',8.0,9.6,5.00,mw,annot,128.0
+72635_8,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',8.0,9.6,2.40,slot,msms,206.0
+72635_8,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',8.0,9.6,2.40,slot,apex,1.8756459716399997E8
+72635_8,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',8.0,9.6,2.40,slot,annot,78.0
+72635_10,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',10.0,12.0,5.00,mw,msms,442.0
+72635_10,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',10.0,12.0,5.00,mw,apex,5.0493169560000026E8
+72635_10,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',10.0,12.0,5.00,mw,annot,156.0
+72635_10,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',10.0,12.0,2.40,slot,msms,209.0
+72635_10,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',10.0,12.0,2.40,slot,apex,2.3045587858999994E8
+72635_10,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',10.0,12.0,2.40,slot,annot,74.0
+72635_12,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',12.0,14.4,5.00,mw,msms,435.0
+72635_12,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',12.0,14.4,5.00,mw,apex,3.2503978148000026E8
+72635_12,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',12.0,14.4,5.00,mw,annot,139.0
+72635_12,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',12.0,14.4,2.40,slot,msms,209.0
+72635_12,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',12.0,14.4,2.40,slot,apex,1.7603896527E8
+72635_12,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',12.0,14.4,2.40,slot,annot,60.0
+72635_14,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',14.0,16.8,5.00,mw,msms,438.0
+72635_14,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',14.0,16.8,5.00,mw,apex,2.4279557232999977E8
+72635_14,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',14.0,16.8,5.00,mw,annot,125.0
+72635_14,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',14.0,16.8,2.40,slot,msms,208.0
+72635_14,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',14.0,16.8,2.40,slot,apex,1.0595698000000001E8
+72635_14,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',14.0,16.8,2.40,slot,annot,58.0
+72635_16,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',16.0,19.2,5.00,mw,msms,437.0
+72635_16,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',16.0,19.2,5.00,mw,apex,2.687344404399998E8
+72635_16,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',16.0,19.2,5.00,mw,annot,110.0
+72635_16,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',16.0,19.2,2.40,slot,msms,209.0
+72635_16,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',16.0,19.2,2.40,slot,apex,1.4516480085000002E8
+72635_16,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',16.0,19.2,2.40,slot,annot,59.0
+72635_18,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',18.0,21.6,5.00,mw,msms,432.0
+72635_18,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',18.0,21.6,5.00,mw,apex,2.5693268404000005E8
+72635_18,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',18.0,21.6,5.00,mw,annot,118.0
+72635_18,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',18.0,21.6,2.40,slot,msms,210.0
+72635_18,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',18.0,21.6,2.40,slot,apex,1.1076390959000002E8
+72635_18,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',18.0,21.6,2.40,slot,annot,50.0
+72635_20,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',20.0,24.0,5.00,mw,msms,429.0
+72635_20,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',20.0,24.0,5.00,mw,apex,1.5109440347000003E8
+72635_20,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',20.0,24.0,5.00,mw,annot,114.0
+72635_20,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',20.0,24.0,2.40,slot,msms,205.0
+72635_20,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',20.0,24.0,2.40,slot,apex,7.531622450000004E7
+72635_20,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',20.0,24.0,2.40,slot,annot,53.0
+72635_22,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',22.0,26.4,5.00,mw,msms,431.0
+72635_22,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',22.0,26.4,5.00,mw,apex,1.2158836072299999E8
+72635_22,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',22.0,26.4,5.00,mw,annot,95.0
+72635_22,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',22.0,26.4,2.40,slot,msms,209.0
+72635_22,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',22.0,26.4,2.40,slot,apex,6.565679047300002E7
+72635_22,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',22.0,26.4,2.40,slot,annot,57.0
+72635_24,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',24.0,28.8,5.00,mw,msms,432.0
+72635_24,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',24.0,28.8,5.00,mw,apex,1.3064334669300006E8
+72635_24,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',24.0,28.8,5.00,mw,annot,78.0
+72635_24,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',24.0,28.8,2.40,slot,msms,204.0
+72635_24,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',24.0,28.8,2.40,slot,apex,4.559787416000001E7
+72635_24,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',24.0,28.8,2.40,slot,annot,37.0
+72635_26,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',26.0,31.2,5.00,mw,msms,427.0
+72635_26,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',26.0,31.2,5.00,mw,apex,1.8242805520200008E8
+72635_26,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',26.0,31.2,5.00,mw,annot,100.0
+72635_26,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',26.0,31.2,2.40,slot,msms,207.0
+72635_26,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',26.0,31.2,2.40,slot,apex,8.849786477000003E7
+72635_26,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',26.0,31.2,2.40,slot,annot,40.0
+72635_28,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',28.0,33.6,5.00,mw,msms,429.0
+72635_28,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',28.0,33.6,5.00,mw,apex,2.874796722119998E8
+72635_28,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',28.0,33.6,5.00,mw,annot,111.0
+72635_28,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',28.0,33.6,2.40,slot,msms,204.0
+72635_28,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',28.0,33.6,2.40,slot,apex,1.2466324239200006E8
+72635_28,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',28.0,33.6,2.40,slot,annot,63.0
+72635_30,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',30.0,36.0,5.00,mw,msms,425.0
+72635_30,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',30.0,36.0,5.00,mw,apex,2.405226840500002E8
+72635_30,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',30.0,36.0,5.00,mw,annot,117.0
+72635_30,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',30.0,36.0,2.40,slot,msms,204.0
+72635_30,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',30.0,36.0,2.40,slot,apex,1.4121342230999997E8
+72635_30,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',30.0,36.0,2.40,slot,annot,43.0
+72635_32,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',32.0,38.4,5.00,mw,msms,426.0
+72635_32,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',32.0,38.4,5.00,mw,apex,1.3528887239999992E8
+72635_32,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',32.0,38.4,5.00,mw,annot,134.0
+72635_32,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',32.0,38.4,2.40,slot,msms,208.0
+72635_32,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',32.0,38.4,2.40,slot,apex,3.866214967000001E7
+72635_32,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',32.0,38.4,2.40,slot,annot,65.0
+72635_34,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',34.0,40.8,5.00,mw,msms,433.0
+72635_34,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',34.0,40.8,5.00,mw,apex,1.0201714947300003E8
+72635_34,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',34.0,40.8,5.00,mw,annot,131.0
+72635_34,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',34.0,40.8,2.40,slot,msms,208.0
+72635_34,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',34.0,40.8,2.40,slot,apex,5.4162639793000005E7
+72635_34,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',34.0,40.8,2.40,slot,annot,67.0
+72635_36,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',36.0,43.2,5.00,mw,msms,432.0
+72635_36,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',36.0,43.2,5.00,mw,apex,1.1356585455299994E8
+72635_36,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',36.0,43.2,5.00,mw,annot,136.0
+72635_36,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',36.0,43.2,2.40,slot,msms,207.0
+72635_36,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',36.0,43.2,2.40,slot,apex,5.313844586999999E7
+72635_36,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',36.0,43.2,2.40,slot,annot,63.0
+72635_38,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',38.0,45.6,5.00,mw,msms,433.0
+72635_38,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',38.0,45.6,5.00,mw,apex,1.7967492335999998E8
+72635_38,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',38.0,45.6,5.00,mw,annot,132.0
+72635_38,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',38.0,45.6,2.40,slot,msms,208.0
+72635_38,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',38.0,45.6,2.40,slot,apex,7.885165114000006E7
+72635_38,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',38.0,45.6,2.40,slot,annot,72.0
+72635_40,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',40.0,48.0,5.00,mw,msms,433.0
+72635_40,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',40.0,48.0,5.00,mw,apex,2.363288689100001E8
+72635_40,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',40.0,48.0,5.00,mw,annot,130.0
+72635_40,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',40.0,48.0,2.40,slot,msms,207.0
+72635_40,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',40.0,48.0,2.40,slot,apex,1.2674751726999989E8
+72635_40,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',40.0,48.0,2.40,slot,annot,60.0
+72635_42,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',42.0,50.4,5.00,mw,msms,431.0
+72635_42,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',42.0,50.4,5.00,mw,apex,2.1726890701000008E8
+72635_42,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',42.0,50.4,5.00,mw,annot,123.0
+72635_42,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',42.0,50.4,2.40,slot,msms,208.0
+72635_42,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',42.0,50.4,2.40,slot,apex,9.331001216999997E7
+72635_42,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',42.0,50.4,2.40,slot,annot,55.0
+72635_44,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',44.0,52.8,5.00,mw,msms,426.0
+72635_44,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',44.0,52.8,5.00,mw,apex,1.9017861589900002E8
+72635_44,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',44.0,52.8,5.00,mw,annot,125.0
+72635_44,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',44.0,52.8,2.40,slot,msms,202.0
+72635_44,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',44.0,52.8,2.40,slot,apex,1.0218944571000004E8
+72635_44,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',44.0,52.8,2.40,slot,annot,62.0
+72635_46,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',46.0,55.2,5.00,mw,msms,422.0
+72635_46,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',46.0,55.2,5.00,mw,apex,1.3227110574899988E8
+72635_46,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',46.0,55.2,5.00,mw,annot,126.0
+72635_46,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',46.0,55.2,2.40,slot,msms,203.0
+72635_46,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',46.0,55.2,2.40,slot,apex,6.166836271900001E7
+72635_46,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',46.0,55.2,2.40,slot,annot,63.0
+72635_48,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',48.0,57.6,5.00,mw,msms,424.0
+72635_48,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',48.0,57.6,5.00,mw,apex,1.1720787840499999E8
+72635_48,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',48.0,57.6,5.00,mw,annot,120.0
+72635_48,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',48.0,57.6,2.40,slot,msms,206.0
+72635_48,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',48.0,57.6,2.40,slot,apex,4.930111356000001E7
+72635_48,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',48.0,57.6,2.40,slot,annot,52.0
+72635_50,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',50.0,60.0,5.00,mw,msms,427.0
+72635_50,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',50.0,60.0,5.00,mw,apex,1.4133630655499998E8
+72635_50,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',50.0,60.0,5.00,mw,annot,101.0
+72635_50,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',50.0,60.0,2.40,slot,msms,204.0
+72635_50,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',50.0,60.0,2.40,slot,apex,9.676560857500002E7
+72635_50,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',50.0,60.0,2.40,slot,annot,58.0
+72635_52,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',52.0,62.4,5.00,mw,msms,427.0
+72635_52,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',52.0,62.4,5.00,mw,apex,1.2853559518E8
+72635_52,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',52.0,62.4,5.00,mw,annot,100.0
+72635_52,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',52.0,62.4,2.40,slot,msms,204.0
+72635_52,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',52.0,62.4,2.40,slot,apex,3.1183189650000002E7
+72635_52,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',52.0,62.4,2.40,slot,annot,42.0
+72635_54,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',54.0,64.8,5.00,mw,msms,424.0
+72635_54,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',54.0,64.8,5.00,mw,apex,6.949475916999999E7
+72635_54,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',54.0,64.8,5.00,mw,annot,96.0
+72635_54,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',54.0,64.8,2.40,slot,msms,204.0
+72635_54,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',54.0,64.8,2.40,slot,apex,3.14296801E7
+72635_54,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',54.0,64.8,2.40,slot,annot,48.0
+72635_56,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',56.0,67.2,5.00,mw,msms,416.0
+72635_56,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',56.0,67.2,5.00,mw,apex,9.260396427899997E7
+72635_56,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',56.0,67.2,5.00,mw,annot,88.0
+72635_56,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',56.0,67.2,2.40,slot,msms,198.0
+72635_56,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',56.0,67.2,2.40,slot,apex,4.715634479000002E7
+72635_56,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',56.0,67.2,2.40,slot,annot,46.0
+72635_58,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',58.0,69.6,5.00,mw,msms,419.0
+72635_58,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',58.0,69.6,5.00,mw,apex,7.971114979600006E7
+72635_58,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',58.0,69.6,5.00,mw,annot,91.0
+72635_58,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',58.0,69.6,2.40,slot,msms,201.0
+72635_58,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',58.0,69.6,2.40,slot,apex,3.9454170619E7
+72635_58,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',58.0,69.6,2.40,slot,annot,38.0
+72635_60,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',60.0,72.0,5.00,mw,msms,420.0
+72635_60,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',60.0,72.0,5.00,mw,apex,6.297989852600002E7
+72635_60,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',60.0,72.0,5.00,mw,annot,90.0
+72635_60,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',60.0,72.0,2.40,slot,msms,206.0
+72635_60,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',60.0,72.0,2.40,slot,apex,2.3624061367000002E7
+72635_60,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',60.0,72.0,2.40,slot,annot,41.0
+72635_62,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',62.0,74.4,5.00,mw,msms,419.0
+72635_62,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',62.0,74.4,5.00,mw,apex,5.661947821599996E7
+72635_62,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',62.0,74.4,5.00,mw,annot,74.0
+72635_62,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',62.0,74.4,2.40,slot,msms,199.0
+72635_62,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',62.0,74.4,2.40,slot,apex,3.2178401954000015E7
+72635_62,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',62.0,74.4,2.40,slot,annot,40.0
+72635_64,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',64.0,76.8,5.00,mw,msms,419.0
+72635_64,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',64.0,76.8,5.00,mw,apex,4.576405346499997E7
+72635_64,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',64.0,76.8,5.00,mw,annot,70.0
+72635_64,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',64.0,76.8,2.40,slot,msms,199.0
+72635_64,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',64.0,76.8,2.40,slot,apex,2.2804246996000018E7
+72635_64,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',64.0,76.8,2.40,slot,annot,31.0
+72635_66,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',66.0,79.2,5.00,mw,msms,418.0
+72635_66,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',66.0,79.2,5.00,mw,apex,4.1766973368999965E7
+72635_66,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',66.0,79.2,5.00,mw,annot,74.0
+72635_66,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',66.0,79.2,2.40,slot,msms,199.0
+72635_66,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',66.0,79.2,2.40,slot,apex,2.1702149875E7
+72635_66,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',66.0,79.2,2.40,slot,annot,45.0
+72635_68,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',68.0,81.6,5.00,mw,msms,415.0
+72635_68,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',68.0,81.6,5.00,mw,apex,3.6932794751E7
+72635_68,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',68.0,81.6,5.00,mw,annot,73.0
+72635_68,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',68.0,81.6,2.40,slot,msms,204.0
+72635_68,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',68.0,81.6,2.40,slot,apex,1.4615627190000009E7
+72635_68,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',68.0,81.6,2.40,slot,annot,23.0
+72635_70,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',70.0,84.0,5.00,mw,msms,420.0
+72635_70,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',70.0,84.0,5.00,mw,apex,4.117969417300002E7
+72635_70,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',70.0,84.0,5.00,mw,annot,61.0
+72635_70,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',70.0,84.0,2.40,slot,msms,197.0
+72635_70,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',70.0,84.0,2.40,slot,apex,2.1576364341000002E7
+72635_70,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',70.0,84.0,2.40,slot,annot,38.0
+72635_72,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',72.0,86.4,5.00,mw,msms,420.0
+72635_72,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',72.0,86.4,5.00,mw,apex,4.352255934299996E7
+72635_72,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',72.0,86.4,5.00,mw,annot,45.0
+72635_72,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',72.0,86.4,2.40,slot,msms,209.0
+72635_72,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',72.0,86.4,2.40,slot,apex,2.1254941243999988E7
+72635_72,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',72.0,86.4,2.40,slot,annot,20.0
+72635_74,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',74.0,88.8,5.00,mw,msms,427.0
+72635_74,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',74.0,88.8,5.00,mw,apex,3.884562703400002E7
+72635_74,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',74.0,88.8,5.00,mw,annot,52.0
+72635_74,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',74.0,88.8,2.40,slot,msms,198.0
+72635_74,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',74.0,88.8,2.40,slot,apex,1.709485757399999E7
+72635_74,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',74.0,88.8,2.40,slot,annot,18.0
+72635_76,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',76.0,91.2,5.00,mw,msms,422.0
+72635_76,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',76.0,91.2,5.00,mw,apex,4.099645646000003E7
+72635_76,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',76.0,91.2,5.00,mw,annot,62.0
+72635_76,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',76.0,91.2,2.40,slot,msms,209.0
+72635_76,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',76.0,91.2,2.40,slot,apex,2.0497139059000008E7
+72635_76,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',76.0,91.2,2.40,slot,annot,42.0
+72635_78,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',78.0,93.6,5.00,mw,msms,418.0
+72635_78,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',78.0,93.6,5.00,mw,apex,3.868060730000003E7
+72635_78,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',78.0,93.6,5.00,mw,annot,59.0
+72635_78,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',78.0,93.6,2.40,slot,msms,199.0
+72635_78,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',78.0,93.6,2.40,slot,apex,1.6520075279999997E7
+72635_78,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',78.0,93.6,2.40,slot,annot,22.0
+72635_80,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',80.0,96.0,5.00,mw,msms,411.0
+72635_80,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',80.0,96.0,5.00,mw,apex,4.441741891200003E7
+72635_80,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',80.0,96.0,5.00,mw,annot,48.0
+72635_80,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',80.0,96.0,2.40,slot,msms,198.0
+72635_80,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',80.0,96.0,2.40,slot,apex,2.4801487786999997E7
+72635_80,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',80.0,96.0,2.40,slot,annot,23.0
+72635_82,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',82.0,98.4,5.00,mw,msms,416.0
+72635_82,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',82.0,98.4,5.00,mw,apex,5.7581383731E7
+72635_82,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',82.0,98.4,5.00,mw,annot,51.0
+72635_82,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',82.0,98.4,2.40,slot,msms,198.0
+72635_82,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',82.0,98.4,2.40,slot,apex,3.0113743516999986E7
+72635_82,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',82.0,98.4,2.40,slot,annot,20.0
+72635_84,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',84.0,100.8,5.00,mw,msms,411.0
+72635_84,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',84.0,100.8,5.00,mw,apex,4.619049865699997E7
+72635_84,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',84.0,100.8,5.00,mw,annot,53.0
+72635_84,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',84.0,100.8,2.40,slot,msms,195.0
+72635_84,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',84.0,100.8,2.40,slot,apex,2.1028137773999993E7
+72635_84,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',84.0,100.8,2.40,slot,annot,30.0
+72635_86,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',86.0,103.2,5.00,mw,msms,394.0
+72635_86,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',86.0,103.2,5.00,mw,apex,1.9969485443999983E7
+72635_86,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',86.0,103.2,5.00,mw,annot,45.0
+72635_86,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',86.0,103.2,2.40,slot,msms,191.0
+72635_86,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',86.0,103.2,2.40,slot,apex,9280476.489000006
+72635_86,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',86.0,103.2,2.40,slot,annot,17.0
+72635_88,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',88.0,105.6,5.00,mw,msms,384.0
+72635_88,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',88.0,105.6,5.00,mw,apex,8770733.36
+72635_88,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',88.0,105.6,5.00,mw,annot,38.0
+72635_88,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',88.0,105.6,2.40,slot,msms,181.0
+72635_88,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',88.0,105.6,2.40,slot,apex,3422481.568999999
+72635_88,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',88.0,105.6,2.40,slot,annot,21.0
+72635_90,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',90.0,108.0,5.00,mw,msms,358.0
+72635_90,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',90.0,108.0,5.00,mw,apex,8522396.826999998
+72635_90,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',90.0,108.0,5.00,mw,annot,37.0
+72635_90,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',90.0,108.0,2.40,slot,msms,191.0
+72635_90,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',90.0,108.0,2.40,slot,apex,4588769.724
+72635_90,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',90.0,108.0,2.40,slot,annot,18.0
+72635_92,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',92.0,110.4,5.00,mw,msms,174.0
+72635_92,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',92.0,110.4,5.00,mw,apex,5439840.228999999
+72635_92,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',92.0,110.4,5.00,mw,annot,16.0
+72635_92,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',92.0,110.4,2.40,slot,msms,68.0
+72635_92,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',92.0,110.4,2.40,slot,apex,2204558.002
+72635_92,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',92.0,110.4,2.40,slot,annot,7.0
+72635_94,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',94.0,112.8,5.00,mw,msms,0.0
+72635_94,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',94.0,112.8,5.00,mw,apex,0.0
+72635_94,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',94.0,112.8,5.00,mw,annot,0.0
+72635_94,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',94.0,112.8,2.40,slot,msms,0.0
+72635_94,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',94.0,112.8,2.40,slot,apex,0.0
+72635_94,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',94.0,112.8,2.40,slot,annot,0.0
+72635_96,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',96.0,115.2,5.00,mw,msms,0.0
+72635_96,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',96.0,115.2,5.00,mw,apex,0.0
+72635_96,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',96.0,115.2,5.00,mw,annot,0.0
+72635_96,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',96.0,115.2,2.40,slot,msms,0.0
+72635_96,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',96.0,115.2,2.40,slot,apex,0.0
+72635_96,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',96.0,115.2,2.40,slot,annot,0.0
+72635_98,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',98.0,117.6,5.00,mw,msms,0.0
+72635_98,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',98.0,117.6,5.00,mw,apex,0.0
+72635_98,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',98.0,117.6,5.00,mw,annot,0.0
+72635_98,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',98.0,117.6,2.40,slot,msms,0.0
+72635_98,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',98.0,117.6,2.40,slot,apex,0.0
+72635_98,72635,'Or2013_0411_CF_07','Spit Ctrl A2:500fmol Pierce Rt Stds',98.0,117.6,2.40,slot,annot,0.0
+72637_0,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',0.0,0.0,5.00,mw,msms,65.0
+72637_0,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',0.0,0.0,5.00,mw,apex,374926.6943000001
+72637_0,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',0.0,0.0,5.00,mw,annot,11.0
+72637_0,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',0.0,0.0,2.40,slot,msms,54.0
+72637_0,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',0.0,0.0,2.40,slot,apex,349636.5586000001
+72637_0,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',0.0,0.0,2.40,slot,annot,11.0
+72637_2,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',2.0,2.4,5.00,mw,msms,112.0
+72637_2,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',2.0,2.4,5.00,mw,apex,835682.9658
+72637_2,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',2.0,2.4,5.00,mw,annot,28.0
+72637_2,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',2.0,2.4,2.40,slot,msms,49.0
+72637_2,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',2.0,2.4,2.40,slot,apex,455488.19309999986
+72637_2,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',2.0,2.4,2.40,slot,annot,16.0
+72637_4,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',4.0,4.8,5.00,mw,msms,103.0
+72637_4,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',4.0,4.8,5.00,mw,apex,870161.8143000001
+72637_4,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',4.0,4.8,5.00,mw,annot,29.0
+72637_4,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',4.0,4.8,2.40,slot,msms,35.0
+72637_4,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',4.0,4.8,2.40,slot,apex,198152.81959999996
+72637_4,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',4.0,4.8,2.40,slot,annot,9.0
+72637_6,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',6.0,7.2,5.00,mw,msms,222.0
+72637_6,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',6.0,7.2,5.00,mw,apex,8.62429390124E7
+72637_6,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',6.0,7.2,5.00,mw,annot,50.0
+72637_6,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',6.0,7.2,2.40,slot,msms,85.0
+72637_6,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',6.0,7.2,2.40,slot,apex,719092.3089000001
+72637_6,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',6.0,7.2,2.40,slot,annot,14.0
+72637_8,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',8.0,9.6,5.00,mw,msms,393.0
+72637_8,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',8.0,9.6,5.00,mw,apex,5.3473044960830015E8
+72637_8,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',8.0,9.6,5.00,mw,annot,107.0
+72637_8,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',8.0,9.6,2.40,slot,msms,209.0
+72637_8,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',8.0,9.6,2.40,slot,apex,2.86523917973E8
+72637_8,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',8.0,9.6,2.40,slot,annot,58.0
+72637_10,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',10.0,12.0,5.00,mw,msms,451.0
+72637_10,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',10.0,12.0,5.00,mw,apex,7.4686949081E8
+72637_10,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',10.0,12.0,5.00,mw,annot,143.0
+72637_10,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',10.0,12.0,2.40,slot,msms,219.0
+72637_10,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',10.0,12.0,2.40,slot,apex,4.029872831099999E8
+72637_10,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',10.0,12.0,2.40,slot,annot,64.0
+72637_12,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',12.0,14.4,5.00,mw,msms,442.0
+72637_12,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',12.0,14.4,5.00,mw,apex,5.0094236473000026E8
+72637_12,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',12.0,14.4,5.00,mw,annot,141.0
+72637_12,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',12.0,14.4,2.40,slot,msms,209.0
+72637_12,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',12.0,14.4,2.40,slot,apex,2.0177471045999992E8
+72637_12,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',12.0,14.4,2.40,slot,annot,73.0
+72637_14,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',14.0,16.8,5.00,mw,msms,439.0
+72637_14,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',14.0,16.8,5.00,mw,apex,4.034090748699998E8
+72637_14,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',14.0,16.8,5.00,mw,annot,141.0
+72637_14,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',14.0,16.8,2.40,slot,msms,212.0
+72637_14,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',14.0,16.8,2.40,slot,apex,2.0689614329000002E8
+72637_14,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',14.0,16.8,2.40,slot,annot,64.0
+72637_16,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',16.0,19.2,5.00,mw,msms,431.0
+72637_16,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',16.0,19.2,5.00,mw,apex,3.779822908600003E8
+72637_16,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',16.0,19.2,5.00,mw,annot,128.0
+72637_16,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',16.0,19.2,2.40,slot,msms,203.0
+72637_16,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',16.0,19.2,2.40,slot,apex,1.8038173534000006E8
+72637_16,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',16.0,19.2,2.40,slot,annot,68.0
+72637_18,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',18.0,21.6,5.00,mw,msms,431.0
+72637_18,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',18.0,21.6,5.00,mw,apex,2.5742533918000004E8
+72637_18,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',18.0,21.6,5.00,mw,annot,126.0
+72637_18,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',18.0,21.6,2.40,slot,msms,211.0
+72637_18,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',18.0,21.6,2.40,slot,apex,1.2095260172000004E8
+72637_18,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',18.0,21.6,2.40,slot,annot,57.0
+72637_20,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',20.0,24.0,5.00,mw,msms,442.0
+72637_20,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',20.0,24.0,5.00,mw,apex,1.72163884633E8
+72637_20,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',20.0,24.0,5.00,mw,annot,128.0
+72637_20,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',20.0,24.0,2.40,slot,msms,209.0
+72637_20,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',20.0,24.0,2.40,slot,apex,6.960387584E7
+72637_20,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',20.0,24.0,2.40,slot,annot,62.0
+72637_22,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',22.0,26.4,5.00,mw,msms,439.0
+72637_22,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',22.0,26.4,5.00,mw,apex,1.5284968332299998E8
+72637_22,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',22.0,26.4,5.00,mw,annot,128.0
+72637_22,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',22.0,26.4,2.40,slot,msms,209.0
+72637_22,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',22.0,26.4,2.40,slot,apex,8.215040499299996E7
+72637_22,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',22.0,26.4,2.40,slot,annot,61.0
+72637_24,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',24.0,28.8,5.00,mw,msms,433.0
+72637_24,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',24.0,28.8,5.00,mw,apex,1.802236690600002E8
+72637_24,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',24.0,28.8,5.00,mw,annot,113.0
+72637_24,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',24.0,28.8,2.40,slot,msms,209.0
+72637_24,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',24.0,28.8,2.40,slot,apex,6.938244614999999E7
+72637_24,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',24.0,28.8,2.40,slot,annot,55.0
+72637_26,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',26.0,31.2,5.00,mw,msms,438.0
+72637_26,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',26.0,31.2,5.00,mw,apex,1.7271219986000007E8
+72637_26,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',26.0,31.2,5.00,mw,annot,105.0
+72637_26,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',26.0,31.2,2.40,slot,msms,210.0
+72637_26,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',26.0,31.2,2.40,slot,apex,7.819878875000001E7
+72637_26,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',26.0,31.2,2.40,slot,annot,49.0
+72637_28,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',28.0,33.6,5.00,mw,msms,436.0
+72637_28,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',28.0,33.6,5.00,mw,apex,1.7379313485599992E8
+72637_28,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',28.0,33.6,5.00,mw,annot,106.0
+72637_28,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',28.0,33.6,2.40,slot,msms,210.0
+72637_28,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',28.0,33.6,2.40,slot,apex,8.524505278600001E7
+72637_28,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',28.0,33.6,2.40,slot,annot,47.0
+72637_30,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',30.0,36.0,5.00,mw,msms,432.0
+72637_30,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',30.0,36.0,5.00,mw,apex,1.7164568017599982E8
+72637_30,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',30.0,36.0,5.00,mw,annot,131.0
+72637_30,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',30.0,36.0,2.40,slot,msms,206.0
+72637_30,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',30.0,36.0,2.40,slot,apex,1.0308125380000001E8
+72637_30,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',30.0,36.0,2.40,slot,annot,62.0
+72637_32,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',32.0,38.4,5.00,mw,msms,435.0
+72637_32,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',32.0,38.4,5.00,mw,apex,1.501898078319999E8
+72637_32,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',32.0,38.4,5.00,mw,annot,155.0
+72637_32,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',32.0,38.4,2.40,slot,msms,213.0
+72637_32,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',32.0,38.4,2.40,slot,apex,5.3289714180000015E7
+72637_32,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',32.0,38.4,2.40,slot,annot,82.0
+72637_34,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',34.0,40.8,5.00,mw,msms,432.0
+72637_34,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',34.0,40.8,5.00,mw,apex,1.5108690464199993E8
+72637_34,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',34.0,40.8,5.00,mw,annot,134.0
+72637_34,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',34.0,40.8,2.40,slot,msms,207.0
+72637_34,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',34.0,40.8,2.40,slot,apex,7.394936699200004E7
+72637_34,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',34.0,40.8,2.40,slot,annot,64.0
+72637_36,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',36.0,43.2,5.00,mw,msms,428.0
+72637_36,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',36.0,43.2,5.00,mw,apex,1.3312840842899998E8
+72637_36,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',36.0,43.2,5.00,mw,annot,127.0
+72637_36,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',36.0,43.2,2.40,slot,msms,204.0
+72637_36,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',36.0,43.2,2.40,slot,apex,7.149555305999997E7
+72637_36,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',36.0,43.2,2.40,slot,annot,53.0
+72637_38,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',38.0,45.6,5.00,mw,msms,431.0
+72637_38,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',38.0,45.6,5.00,mw,apex,1.0771170106899998E8
+72637_38,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',38.0,45.6,5.00,mw,annot,124.0
+72637_38,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',38.0,45.6,2.40,slot,msms,208.0
+72637_38,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',38.0,45.6,2.40,slot,apex,4.485007101900001E7
+72637_38,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',38.0,45.6,2.40,slot,annot,61.0
+72637_40,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',40.0,48.0,5.00,mw,msms,427.0
+72637_40,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',40.0,48.0,5.00,mw,apex,1.0818187285299991E8
+72637_40,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',40.0,48.0,5.00,mw,annot,108.0
+72637_40,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',40.0,48.0,2.40,slot,msms,207.0
+72637_40,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',40.0,48.0,2.40,slot,apex,5.2078307629999995E7
+72637_40,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',40.0,48.0,2.40,slot,annot,64.0
+72637_42,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',42.0,50.4,5.00,mw,msms,421.0
+72637_42,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',42.0,50.4,5.00,mw,apex,9.1334425577E7
+72637_42,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',42.0,50.4,5.00,mw,annot,111.0
+72637_42,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',42.0,50.4,2.40,slot,msms,197.0
+72637_42,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',42.0,50.4,2.40,slot,apex,5.244858174700002E7
+72637_42,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',42.0,50.4,2.40,slot,annot,43.0
+72637_44,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',44.0,52.8,5.00,mw,msms,417.0
+72637_44,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',44.0,52.8,5.00,mw,apex,6.592354971499999E7
+72637_44,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',44.0,52.8,5.00,mw,annot,118.0
+72637_44,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',44.0,52.8,2.40,slot,msms,203.0
+72637_44,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',44.0,52.8,2.40,slot,apex,2.7528500731000017E7
+72637_44,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',44.0,52.8,2.40,slot,annot,56.0
+72637_46,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',46.0,55.2,5.00,mw,msms,425.0
+72637_46,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',46.0,55.2,5.00,mw,apex,1.08770168764E8
+72637_46,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',46.0,55.2,5.00,mw,annot,125.0
+72637_46,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',46.0,55.2,2.40,slot,msms,202.0
+72637_46,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',46.0,55.2,2.40,slot,apex,4.372770838499998E7
+72637_46,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',46.0,55.2,2.40,slot,annot,63.0
+72637_48,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',48.0,57.6,5.00,mw,msms,423.0
+72637_48,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',48.0,57.6,5.00,mw,apex,9.843252296800008E7
+72637_48,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',48.0,57.6,5.00,mw,annot,116.0
+72637_48,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',48.0,57.6,2.40,slot,msms,205.0
+72637_48,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',48.0,57.6,2.40,slot,apex,6.431277581599999E7
+72637_48,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',48.0,57.6,2.40,slot,annot,58.0
+72637_50,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',50.0,60.0,5.00,mw,msms,420.0
+72637_50,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',50.0,60.0,5.00,mw,apex,9.988229589300004E7
+72637_50,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',50.0,60.0,5.00,mw,annot,105.0
+72637_50,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',50.0,60.0,2.40,slot,msms,201.0
+72637_50,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',50.0,60.0,2.40,slot,apex,5.972763863699998E7
+72637_50,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',50.0,60.0,2.40,slot,annot,46.0
+72637_52,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',52.0,62.4,5.00,mw,msms,408.0
+72637_52,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',52.0,62.4,5.00,mw,apex,8.1606783629E7
+72637_52,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',52.0,62.4,5.00,mw,annot,111.0
+72637_52,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',52.0,62.4,2.40,slot,msms,196.0
+72637_52,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',52.0,62.4,2.40,slot,apex,2.5405609184000004E7
+72637_52,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',52.0,62.4,2.40,slot,annot,57.0
+72637_54,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',54.0,64.8,5.00,mw,msms,393.0
+72637_54,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',54.0,64.8,5.00,mw,apex,2.9047865580999967E7
+72637_54,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',54.0,64.8,5.00,mw,annot,104.0
+72637_54,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',54.0,64.8,2.40,slot,msms,190.0
+72637_54,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',54.0,64.8,2.40,slot,apex,1.5267435994999997E7
+72637_54,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',54.0,64.8,2.40,slot,annot,50.0
+72637_56,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',56.0,67.2,5.00,mw,msms,392.0
+72637_56,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',56.0,67.2,5.00,mw,apex,2.2921815286000002E7
+72637_56,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',56.0,67.2,5.00,mw,annot,95.0
+72637_56,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',56.0,67.2,2.40,slot,msms,187.0
+72637_56,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',56.0,67.2,2.40,slot,apex,8667305.900999997
+72637_56,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',56.0,67.2,2.40,slot,annot,44.0
+72637_58,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',58.0,69.6,5.00,mw,msms,393.0
+72637_58,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',58.0,69.6,5.00,mw,apex,1.5145389790999992E7
+72637_58,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',58.0,69.6,5.00,mw,annot,98.0
+72637_58,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',58.0,69.6,2.40,slot,msms,184.0
+72637_58,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',58.0,69.6,2.40,slot,apex,5335121.816000001
+72637_58,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',58.0,69.6,2.40,slot,annot,45.0
+72637_60,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',60.0,72.0,5.00,mw,msms,396.0
+72637_60,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',60.0,72.0,5.00,mw,apex,1.1095041034999998E7
+72637_60,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',60.0,72.0,5.00,mw,annot,82.0
+72637_60,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',60.0,72.0,2.40,slot,msms,192.0
+72637_60,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',60.0,72.0,2.40,slot,apex,6847429.720000006
+72637_60,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',60.0,72.0,2.40,slot,annot,43.0
+72637_62,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',62.0,74.4,5.00,mw,msms,390.0
+72637_62,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',62.0,74.4,5.00,mw,apex,9264545.80399999
+72637_62,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',62.0,74.4,5.00,mw,annot,80.0
+72637_62,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',62.0,74.4,2.40,slot,msms,185.0
+72637_62,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',62.0,74.4,2.40,slot,apex,3511060.583000001
+72637_62,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',62.0,74.4,2.40,slot,annot,37.0
+72637_64,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',64.0,76.8,5.00,mw,msms,401.0
+72637_64,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',64.0,76.8,5.00,mw,apex,1.5144868874999994E7
+72637_64,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',64.0,76.8,5.00,mw,annot,66.0
+72637_64,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',64.0,76.8,2.40,slot,msms,194.0
+72637_64,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',64.0,76.8,2.40,slot,apex,1.0277448041000005E7
+72637_64,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',64.0,76.8,2.40,slot,annot,36.0
+72637_66,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',66.0,79.2,5.00,mw,msms,399.0
+72637_66,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',66.0,79.2,5.00,mw,apex,1.3544503018999988E7
+72637_66,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',66.0,79.2,5.00,mw,annot,63.0
+72637_66,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',66.0,79.2,2.40,slot,msms,194.0
+72637_66,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',66.0,79.2,2.40,slot,apex,5321492.685000001
+72637_66,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',66.0,79.2,2.40,slot,annot,21.0
+72637_68,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',68.0,81.6,5.00,mw,msms,384.0
+72637_68,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',68.0,81.6,5.00,mw,apex,7661614.799000001
+72637_68,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',68.0,81.6,5.00,mw,annot,78.0
+72637_68,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',68.0,81.6,2.40,slot,msms,181.0
+72637_68,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',68.0,81.6,2.40,slot,apex,2681170.1200000015
+72637_68,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',68.0,81.6,2.40,slot,annot,35.0
+72637_70,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',70.0,84.0,5.00,mw,msms,372.0
+72637_70,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',70.0,84.0,5.00,mw,apex,5934482.3029999975
+72637_70,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',70.0,84.0,5.00,mw,annot,77.0
+72637_70,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',70.0,84.0,2.40,slot,msms,176.0
+72637_70,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',70.0,84.0,2.40,slot,apex,2907236.923
+72637_70,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',70.0,84.0,2.40,slot,annot,44.0
+72637_72,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',72.0,86.4,5.00,mw,msms,359.0
+72637_72,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',72.0,86.4,5.00,mw,apex,3663142.6794999973
+72637_72,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',72.0,86.4,5.00,mw,annot,57.0
+72637_72,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',72.0,86.4,2.40,slot,msms,175.0
+72637_72,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',72.0,86.4,2.40,slot,apex,2072416.3394999986
+72637_72,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',72.0,86.4,2.40,slot,annot,32.0
+72637_74,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',74.0,88.8,5.00,mw,msms,354.0
+72637_74,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',74.0,88.8,5.00,mw,apex,2906465.5608000015
+72637_74,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',74.0,88.8,5.00,mw,annot,38.0
+72637_74,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',74.0,88.8,2.40,slot,msms,167.0
+72637_74,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',74.0,88.8,2.40,slot,apex,1299044.434299999
+72637_74,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',74.0,88.8,2.40,slot,annot,15.0
+72637_76,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',76.0,91.2,5.00,mw,msms,357.0
+72637_76,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',76.0,91.2,5.00,mw,apex,2859735.4829999986
+72637_76,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',76.0,91.2,5.00,mw,annot,35.0
+72637_76,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',76.0,91.2,2.40,slot,msms,174.0
+72637_76,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',76.0,91.2,2.40,slot,apex,1318941.181
+72637_76,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',76.0,91.2,2.40,slot,annot,17.0
+72637_78,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',78.0,93.6,5.00,mw,msms,356.0
+72637_78,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',78.0,93.6,5.00,mw,apex,2963453.815200001
+72637_78,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',78.0,93.6,5.00,mw,annot,51.0
+72637_78,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',78.0,93.6,2.40,slot,msms,170.0
+72637_78,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',78.0,93.6,2.40,slot,apex,1070236.4799
+72637_78,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',78.0,93.6,2.40,slot,annot,26.0
+72637_80,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',80.0,96.0,5.00,mw,msms,348.0
+72637_80,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',80.0,96.0,5.00,mw,apex,2211153.3297000015
+72637_80,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',80.0,96.0,5.00,mw,annot,48.0
+72637_80,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',80.0,96.0,2.40,slot,msms,170.0
+72637_80,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',80.0,96.0,2.40,slot,apex,1455938.484900001
+72637_80,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',80.0,96.0,2.40,slot,annot,24.0
+72637_82,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',82.0,98.4,5.00,mw,msms,349.0
+72637_82,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',82.0,98.4,5.00,mw,apex,1706669.0688000007
+72637_82,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',82.0,98.4,5.00,mw,annot,49.0
+72637_82,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',82.0,98.4,2.40,slot,msms,165.0
+72637_82,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',82.0,98.4,2.40,slot,apex,619992.5423999999
+72637_82,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',82.0,98.4,2.40,slot,annot,21.0
+72637_84,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',84.0,100.8,5.00,mw,msms,353.0
+72637_84,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',84.0,100.8,5.00,mw,apex,1260039.9798
+72637_84,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',84.0,100.8,5.00,mw,annot,41.0
+72637_84,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',84.0,100.8,2.40,slot,msms,167.0
+72637_84,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',84.0,100.8,2.40,slot,apex,523026.6487000001
+72637_84,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',84.0,100.8,2.40,slot,annot,18.0
+72637_86,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',86.0,103.2,5.00,mw,msms,357.0
+72637_86,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',86.0,103.2,5.00,mw,apex,1321956.3029999998
+72637_86,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',86.0,103.2,5.00,mw,annot,34.0
+72637_86,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',86.0,103.2,2.40,slot,msms,176.0
+72637_86,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',86.0,103.2,2.40,slot,apex,739337.3442000002
+72637_86,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',86.0,103.2,2.40,slot,annot,16.0
+72637_88,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',88.0,105.6,5.00,mw,msms,361.0
+72637_88,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',88.0,105.6,5.00,mw,apex,1200530.2974000003
+72637_88,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',88.0,105.6,5.00,mw,annot,28.0
+72637_88,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',88.0,105.6,2.40,slot,msms,169.0
+72637_88,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',88.0,105.6,2.40,slot,apex,510296.0937999998
+72637_88,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',88.0,105.6,2.40,slot,annot,15.0
+72637_90,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',90.0,108.0,5.00,mw,msms,325.0
+72637_90,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',90.0,108.0,5.00,mw,apex,1021209.7882000002
+72637_90,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',90.0,108.0,5.00,mw,annot,22.0
+72637_90,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',90.0,108.0,2.40,slot,msms,174.0
+72637_90,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',90.0,108.0,2.40,slot,apex,624585.4975999999
+72637_90,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',90.0,108.0,2.40,slot,annot,10.0
+72637_92,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',92.0,110.4,5.00,mw,msms,152.0
+72637_92,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',92.0,110.4,5.00,mw,apex,506452.4891
+72637_92,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',92.0,110.4,5.00,mw,annot,12.0
+72637_92,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',92.0,110.4,2.40,slot,msms,59.0
+72637_92,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',92.0,110.4,2.40,slot,apex,131605.093
+72637_92,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',92.0,110.4,2.40,slot,annot,5.0
+72637_94,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',94.0,112.8,5.00,mw,msms,0.0
+72637_94,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',94.0,112.8,5.00,mw,apex,0.0
+72637_94,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',94.0,112.8,5.00,mw,annot,0.0
+72637_94,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',94.0,112.8,2.40,slot,msms,0.0
+72637_94,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',94.0,112.8,2.40,slot,apex,0.0
+72637_94,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',94.0,112.8,2.40,slot,annot,0.0
+72637_96,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',96.0,115.2,5.00,mw,msms,0.0
+72637_96,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',96.0,115.2,5.00,mw,apex,0.0
+72637_96,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',96.0,115.2,5.00,mw,annot,0.0
+72637_96,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',96.0,115.2,2.40,slot,msms,0.0
+72637_96,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',96.0,115.2,2.40,slot,apex,0.0
+72637_96,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',96.0,115.2,2.40,slot,annot,0.0
+72637_98,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',98.0,117.6,5.00,mw,msms,0.0
+72637_98,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',98.0,117.6,5.00,mw,apex,0.0
+72637_98,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',98.0,117.6,5.00,mw,annot,0.0
+72637_98,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',98.0,117.6,2.40,slot,msms,0.0
+72637_98,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',98.0,117.6,2.40,slot,apex,0.0
+72637_98,72637,'Or2013_0411_CF_02','With FA TFE on Spit A1:500fmol Pierce Rt Stds',98.0,117.6,2.40,slot,annot,0.0
+69820_0,69820,'RR20121025_D1_elute_19','Velos Orbitrap',0.0,0.0,5.00,mw,msms,17.0
+69820_0,69820,'RR20121025_D1_elute_19','Velos Orbitrap',0.0,0.0,5.00,mw,apex,12564.245400000002
+69820_0,69820,'RR20121025_D1_elute_19','Velos Orbitrap',0.0,0.0,5.00,mw,annot,0.0
+69820_0,69820,'RR20121025_D1_elute_19','Velos Orbitrap',0.0,0.0,3.20,slot,msms,15.0
+69820_0,69820,'RR20121025_D1_elute_19','Velos Orbitrap',0.0,0.0,3.20,slot,apex,9679.906
+69820_0,69820,'RR20121025_D1_elute_19','Velos Orbitrap',0.0,0.0,3.20,slot,annot,0.0
+69820_2,69820,'RR20121025_D1_elute_19','Velos Orbitrap',2.0,3.2,5.00,mw,msms,45.0
+69820_2,69820,'RR20121025_D1_elute_19','Velos Orbitrap',2.0,3.2,5.00,mw,apex,117600.64880000001
+69820_2,69820,'RR20121025_D1_elute_19','Velos Orbitrap',2.0,3.2,5.00,mw,annot,3.0
+69820_2,69820,'RR20121025_D1_elute_19','Velos Orbitrap',2.0,3.2,3.20,slot,msms,31.0
+69820_2,69820,'RR20121025_D1_elute_19','Velos Orbitrap',2.0,3.2,3.20,slot,apex,84488.87279999998
+69820_2,69820,'RR20121025_D1_elute_19','Velos Orbitrap',2.0,3.2,3.20,slot,annot,3.0
+69820_4,69820,'RR20121025_D1_elute_19','Velos Orbitrap',4.0,6.4,5.00,mw,msms,39.0
+69820_4,69820,'RR20121025_D1_elute_19','Velos Orbitrap',4.0,6.4,5.00,mw,apex,168152.68239999996
+69820_4,69820,'RR20121025_D1_elute_19','Velos Orbitrap',4.0,6.4,5.00,mw,annot,0.0
+69820_4,69820,'RR20121025_D1_elute_19','Velos Orbitrap',4.0,6.4,3.20,slot,msms,24.0
+69820_4,69820,'RR20121025_D1_elute_19','Velos Orbitrap',4.0,6.4,3.20,slot,apex,127594.0021
+69820_4,69820,'RR20121025_D1_elute_19','Velos Orbitrap',4.0,6.4,3.20,slot,annot,0.0
+69820_6,69820,'RR20121025_D1_elute_19','Velos Orbitrap',6.0,9.6,5.00,mw,msms,68.0
+69820_6,69820,'RR20121025_D1_elute_19','Velos Orbitrap',6.0,9.6,5.00,mw,apex,495471.3028
+69820_6,69820,'RR20121025_D1_elute_19','Velos Orbitrap',6.0,9.6,5.00,mw,annot,9.0
+69820_6,69820,'RR20121025_D1_elute_19','Velos Orbitrap',6.0,9.6,3.20,slot,msms,41.0
+69820_6,69820,'RR20121025_D1_elute_19','Velos Orbitrap',6.0,9.6,3.20,slot,apex,329878.7823999999
+69820_6,69820,'RR20121025_D1_elute_19','Velos Orbitrap',6.0,9.6,3.20,slot,annot,6.0
+69820_8,69820,'RR20121025_D1_elute_19','Velos Orbitrap',8.0,12.8,5.00,mw,msms,336.0
+69820_8,69820,'RR20121025_D1_elute_19','Velos Orbitrap',8.0,12.8,5.00,mw,apex,1.1607527718470003E8
+69820_8,69820,'RR20121025_D1_elute_19','Velos Orbitrap',8.0,12.8,5.00,mw,annot,81.0
+69820_8,69820,'RR20121025_D1_elute_19','Velos Orbitrap',8.0,12.8,3.20,slot,msms,241.0
+69820_8,69820,'RR20121025_D1_elute_19','Velos Orbitrap',8.0,12.8,3.20,slot,apex,6.681924867120002E7
+69820_8,69820,'RR20121025_D1_elute_19','Velos Orbitrap',8.0,12.8,3.20,slot,annot,54.0
+69820_10,69820,'RR20121025_D1_elute_19','Velos Orbitrap',10.0,16.0,5.00,mw,msms,471.0
+69820_10,69820,'RR20121025_D1_elute_19','Velos Orbitrap',10.0,16.0,5.00,mw,apex,3.77725056314E8
+69820_10,69820,'RR20121025_D1_elute_19','Velos Orbitrap',10.0,16.0,5.00,mw,annot,148.0
+69820_10,69820,'RR20121025_D1_elute_19','Velos Orbitrap',10.0,16.0,3.20,slot,msms,299.0
+69820_10,69820,'RR20121025_D1_elute_19','Velos Orbitrap',10.0,16.0,3.20,slot,apex,2.6923482917699987E8
+69820_10,69820,'RR20121025_D1_elute_19','Velos Orbitrap',10.0,16.0,3.20,slot,annot,98.0
+69820_12,69820,'RR20121025_D1_elute_19','Velos Orbitrap',12.0,19.2,5.00,mw,msms,470.0
+69820_12,69820,'RR20121025_D1_elute_19','Velos Orbitrap',12.0,19.2,5.00,mw,apex,9.776614093669997E8
+69820_12,69820,'RR20121025_D1_elute_19','Velos Orbitrap',12.0,19.2,5.00,mw,annot,156.0
+69820_12,69820,'RR20121025_D1_elute_19','Velos Orbitrap',12.0,19.2,3.20,slot,msms,302.0
+69820_12,69820,'RR20121025_D1_elute_19','Velos Orbitrap',12.0,19.2,3.20,slot,apex,6.061402847570001E8
+69820_12,69820,'RR20121025_D1_elute_19','Velos Orbitrap',12.0,19.2,3.20,slot,annot,89.0
+69820_14,69820,'RR20121025_D1_elute_19','Velos Orbitrap',14.0,22.4,5.00,mw,msms,476.0
+69820_14,69820,'RR20121025_D1_elute_19','Velos Orbitrap',14.0,22.4,5.00,mw,apex,1.2476043380000005E9
+69820_14,69820,'RR20121025_D1_elute_19','Velos Orbitrap',14.0,22.4,5.00,mw,annot,158.0
+69820_14,69820,'RR20121025_D1_elute_19','Velos Orbitrap',14.0,22.4,3.20,slot,msms,306.0
+69820_14,69820,'RR20121025_D1_elute_19','Velos Orbitrap',14.0,22.4,3.20,slot,apex,9.265569918899997E8
+69820_14,69820,'RR20121025_D1_elute_19','Velos Orbitrap',14.0,22.4,3.20,slot,annot,104.0
+69820_16,69820,'RR20121025_D1_elute_19','Velos Orbitrap',16.0,25.6,5.00,mw,msms,476.0
+69820_16,69820,'RR20121025_D1_elute_19','Velos Orbitrap',16.0,25.6,5.00,mw,apex,9.215956925999998E8
+69820_16,69820,'RR20121025_D1_elute_19','Velos Orbitrap',16.0,25.6,5.00,mw,annot,189.0
+69820_16,69820,'RR20121025_D1_elute_19','Velos Orbitrap',16.0,25.6,3.20,slot,msms,306.0
+69820_16,69820,'RR20121025_D1_elute_19','Velos Orbitrap',16.0,25.6,3.20,slot,apex,6.779120141799997E8
+69820_16,69820,'RR20121025_D1_elute_19','Velos Orbitrap',16.0,25.6,3.20,slot,annot,131.0
+69820_18,69820,'RR20121025_D1_elute_19','Velos Orbitrap',18.0,28.8,5.00,mw,msms,479.0
+69820_18,69820,'RR20121025_D1_elute_19','Velos Orbitrap',18.0,28.8,5.00,mw,apex,8.687060482100002E8
+69820_18,69820,'RR20121025_D1_elute_19','Velos Orbitrap',18.0,28.8,5.00,mw,annot,188.0
+69820_18,69820,'RR20121025_D1_elute_19','Velos Orbitrap',18.0,28.8,3.20,slot,msms,306.0
+69820_18,69820,'RR20121025_D1_elute_19','Velos Orbitrap',18.0,28.8,3.20,slot,apex,5.868177390900004E8
+69820_18,69820,'RR20121025_D1_elute_19','Velos Orbitrap',18.0,28.8,3.20,slot,annot,123.0
+69820_20,69820,'RR20121025_D1_elute_19','Velos Orbitrap',20.0,32.0,5.00,mw,msms,483.0
+69820_20,69820,'RR20121025_D1_elute_19','Velos Orbitrap',20.0,32.0,5.00,mw,apex,7.185537785299991E8
+69820_20,69820,'RR20121025_D1_elute_19','Velos Orbitrap',20.0,32.0,5.00,mw,annot,167.0
+69820_20,69820,'RR20121025_D1_elute_19','Velos Orbitrap',20.0,32.0,3.20,slot,msms,310.0
+69820_20,69820,'RR20121025_D1_elute_19','Velos Orbitrap',20.0,32.0,3.20,slot,apex,4.3103980159000003E8
+69820_20,69820,'RR20121025_D1_elute_19','Velos Orbitrap',20.0,32.0,3.20,slot,annot,94.0
+69820_22,69820,'RR20121025_D1_elute_19','Velos Orbitrap',22.0,35.2,5.00,mw,msms,478.0
+69820_22,69820,'RR20121025_D1_elute_19','Velos Orbitrap',22.0,35.2,5.00,mw,apex,8.381658231100006E8
+69820_22,69820,'RR20121025_D1_elute_19','Velos Orbitrap',22.0,35.2,5.00,mw,annot,163.0
+69820_22,69820,'RR20121025_D1_elute_19','Velos Orbitrap',22.0,35.2,3.20,slot,msms,309.0
+69820_22,69820,'RR20121025_D1_elute_19','Velos Orbitrap',22.0,35.2,3.20,slot,apex,5.790621305300002E8
+69820_22,69820,'RR20121025_D1_elute_19','Velos Orbitrap',22.0,35.2,3.20,slot,annot,119.0
+69820_24,69820,'RR20121025_D1_elute_19','Velos Orbitrap',24.0,38.4,5.00,mw,msms,477.0
+69820_24,69820,'RR20121025_D1_elute_19','Velos Orbitrap',24.0,38.4,5.00,mw,apex,6.588570356700001E8
+69820_24,69820,'RR20121025_D1_elute_19','Velos Orbitrap',24.0,38.4,5.00,mw,annot,166.0
+69820_24,69820,'RR20121025_D1_elute_19','Velos Orbitrap',24.0,38.4,3.20,slot,msms,302.0
+69820_24,69820,'RR20121025_D1_elute_19','Velos Orbitrap',24.0,38.4,3.20,slot,apex,3.3296994806000006E8
+69820_24,69820,'RR20121025_D1_elute_19','Velos Orbitrap',24.0,38.4,3.20,slot,annot,94.0
+69820_26,69820,'RR20121025_D1_elute_19','Velos Orbitrap',26.0,41.6,5.00,mw,msms,482.0
+69820_26,69820,'RR20121025_D1_elute_19','Velos Orbitrap',26.0,41.6,5.00,mw,apex,7.370383787499996E8
+69820_26,69820,'RR20121025_D1_elute_19','Velos Orbitrap',26.0,41.6,5.00,mw,annot,195.0
+69820_26,69820,'RR20121025_D1_elute_19','Velos Orbitrap',26.0,41.6,3.20,slot,msms,310.0
+69820_26,69820,'RR20121025_D1_elute_19','Velos Orbitrap',26.0,41.6,3.20,slot,apex,3.1289886894999987E8
+69820_26,69820,'RR20121025_D1_elute_19','Velos Orbitrap',26.0,41.6,3.20,slot,annot,120.0
+69820_28,69820,'RR20121025_D1_elute_19','Velos Orbitrap',28.0,44.8,5.00,mw,msms,482.0
+69820_28,69820,'RR20121025_D1_elute_19','Velos Orbitrap',28.0,44.8,5.00,mw,apex,9.572984900799992E8
+69820_28,69820,'RR20121025_D1_elute_19','Velos Orbitrap',28.0,44.8,5.00,mw,annot,176.0
+69820_28,69820,'RR20121025_D1_elute_19','Velos Orbitrap',28.0,44.8,3.20,slot,msms,307.0
+69820_28,69820,'RR20121025_D1_elute_19','Velos Orbitrap',28.0,44.8,3.20,slot,apex,7.968096548100001E8
+69820_28,69820,'RR20121025_D1_elute_19','Velos Orbitrap',28.0,44.8,3.20,slot,annot,105.0
+69820_30,69820,'RR20121025_D1_elute_19','Velos Orbitrap',30.0,48.0,5.00,mw,msms,476.0
+69820_30,69820,'RR20121025_D1_elute_19','Velos Orbitrap',30.0,48.0,5.00,mw,apex,6.838343024599996E8
+69820_30,69820,'RR20121025_D1_elute_19','Velos Orbitrap',30.0,48.0,5.00,mw,annot,176.0
+69820_30,69820,'RR20121025_D1_elute_19','Velos Orbitrap',30.0,48.0,3.20,slot,msms,307.0
+69820_30,69820,'RR20121025_D1_elute_19','Velos Orbitrap',30.0,48.0,3.20,slot,apex,3.4358230176999986E8
+69820_30,69820,'RR20121025_D1_elute_19','Velos Orbitrap',30.0,48.0,3.20,slot,annot,116.0
+69820_32,69820,'RR20121025_D1_elute_19','Velos Orbitrap',32.0,51.2,5.00,mw,msms,471.0
+69820_32,69820,'RR20121025_D1_elute_19','Velos Orbitrap',32.0,51.2,5.00,mw,apex,5.822936802399997E8
+69820_32,69820,'RR20121025_D1_elute_19','Velos Orbitrap',32.0,51.2,5.00,mw,annot,176.0
+69820_32,69820,'RR20121025_D1_elute_19','Velos Orbitrap',32.0,51.2,3.20,slot,msms,301.0
+69820_32,69820,'RR20121025_D1_elute_19','Velos Orbitrap',32.0,51.2,3.20,slot,apex,4.1426994947999984E8
+69820_32,69820,'RR20121025_D1_elute_19','Velos Orbitrap',32.0,51.2,3.20,slot,annot,116.0
+69820_34,69820,'RR20121025_D1_elute_19','Velos Orbitrap',34.0,54.4,5.00,mw,msms,471.0
+69820_34,69820,'RR20121025_D1_elute_19','Velos Orbitrap',34.0,54.4,5.00,mw,apex,8.039182677100004E8
+69820_34,69820,'RR20121025_D1_elute_19','Velos Orbitrap',34.0,54.4,5.00,mw,annot,187.0
+69820_34,69820,'RR20121025_D1_elute_19','Velos Orbitrap',34.0,54.4,3.20,slot,msms,299.0
+69820_34,69820,'RR20121025_D1_elute_19','Velos Orbitrap',34.0,54.4,3.20,slot,apex,4.786485580599998E8
+69820_34,69820,'RR20121025_D1_elute_19','Velos Orbitrap',34.0,54.4,3.20,slot,annot,121.0
+69820_36,69820,'RR20121025_D1_elute_19','Velos Orbitrap',36.0,57.6,5.00,mw,msms,470.0
+69820_36,69820,'RR20121025_D1_elute_19','Velos Orbitrap',36.0,57.6,5.00,mw,apex,9.366696385099998E8
+69820_36,69820,'RR20121025_D1_elute_19','Velos Orbitrap',36.0,57.6,5.00,mw,annot,185.0
+69820_36,69820,'RR20121025_D1_elute_19','Velos Orbitrap',36.0,57.6,3.20,slot,msms,303.0
+69820_36,69820,'RR20121025_D1_elute_19','Velos Orbitrap',36.0,57.6,3.20,slot,apex,5.3172188627999973E8
+69820_36,69820,'RR20121025_D1_elute_19','Velos Orbitrap',36.0,57.6,3.20,slot,annot,121.0
+69820_38,69820,'RR20121025_D1_elute_19','Velos Orbitrap',38.0,60.8,5.00,mw,msms,457.0
+69820_38,69820,'RR20121025_D1_elute_19','Velos Orbitrap',38.0,60.8,5.00,mw,apex,6.767705985199999E8
+69820_38,69820,'RR20121025_D1_elute_19','Velos Orbitrap',38.0,60.8,5.00,mw,annot,164.0
+69820_38,69820,'RR20121025_D1_elute_19','Velos Orbitrap',38.0,60.8,3.20,slot,msms,292.0
+69820_38,69820,'RR20121025_D1_elute_19','Velos Orbitrap',38.0,60.8,3.20,slot,apex,5.034396868599999E8
+69820_38,69820,'RR20121025_D1_elute_19','Velos Orbitrap',38.0,60.8,3.20,slot,annot,94.0
+69820_40,69820,'RR20121025_D1_elute_19','Velos Orbitrap',40.0,64.0,5.00,mw,msms,470.0
+69820_40,69820,'RR20121025_D1_elute_19','Velos Orbitrap',40.0,64.0,5.00,mw,apex,5.336569894400001E8
+69820_40,69820,'RR20121025_D1_elute_19','Velos Orbitrap',40.0,64.0,5.00,mw,annot,192.0
+69820_40,69820,'RR20121025_D1_elute_19','Velos Orbitrap',40.0,64.0,3.20,slot,msms,303.0
+69820_40,69820,'RR20121025_D1_elute_19','Velos Orbitrap',40.0,64.0,3.20,slot,apex,3.5616333689000005E8
+69820_40,69820,'RR20121025_D1_elute_19','Velos Orbitrap',40.0,64.0,3.20,slot,annot,128.0
+69820_42,69820,'RR20121025_D1_elute_19','Velos Orbitrap',42.0,67.2,5.00,mw,msms,481.0
+69820_42,69820,'RR20121025_D1_elute_19','Velos Orbitrap',42.0,67.2,5.00,mw,apex,6.5158003971E8
+69820_42,69820,'RR20121025_D1_elute_19','Velos Orbitrap',42.0,67.2,5.00,mw,annot,184.0
+69820_42,69820,'RR20121025_D1_elute_19','Velos Orbitrap',42.0,67.2,3.20,slot,msms,305.0
+69820_42,69820,'RR20121025_D1_elute_19','Velos Orbitrap',42.0,67.2,3.20,slot,apex,4.3165420137E8
+69820_42,69820,'RR20121025_D1_elute_19','Velos Orbitrap',42.0,67.2,3.20,slot,annot,123.0
+69820_44,69820,'RR20121025_D1_elute_19','Velos Orbitrap',44.0,70.4,5.00,mw,msms,482.0
+69820_44,69820,'RR20121025_D1_elute_19','Velos Orbitrap',44.0,70.4,5.00,mw,apex,6.323262845900005E8
+69820_44,69820,'RR20121025_D1_elute_19','Velos Orbitrap',44.0,70.4,5.00,mw,annot,175.0
+69820_44,69820,'RR20121025_D1_elute_19','Velos Orbitrap',44.0,70.4,3.20,slot,msms,312.0
+69820_44,69820,'RR20121025_D1_elute_19','Velos Orbitrap',44.0,70.4,3.20,slot,apex,3.8229500401000005E8
+69820_44,69820,'RR20121025_D1_elute_19','Velos Orbitrap',44.0,70.4,3.20,slot,annot,110.0
+69820_46,69820,'RR20121025_D1_elute_19','Velos Orbitrap',46.0,73.6,5.00,mw,msms,475.0
+69820_46,69820,'RR20121025_D1_elute_19','Velos Orbitrap',46.0,73.6,5.00,mw,apex,5.134803862100003E8
+69820_46,69820,'RR20121025_D1_elute_19','Velos Orbitrap',46.0,73.6,5.00,mw,annot,168.0
+69820_46,69820,'RR20121025_D1_elute_19','Velos Orbitrap',46.0,73.6,3.20,slot,msms,301.0
+69820_46,69820,'RR20121025_D1_elute_19','Velos Orbitrap',46.0,73.6,3.20,slot,apex,3.0520200710999995E8
+69820_46,69820,'RR20121025_D1_elute_19','Velos Orbitrap',46.0,73.6,3.20,slot,annot,105.0
+69820_48,69820,'RR20121025_D1_elute_19','Velos Orbitrap',48.0,76.8,5.00,mw,msms,475.0
+69820_48,69820,'RR20121025_D1_elute_19','Velos Orbitrap',48.0,76.8,5.00,mw,apex,9.219955356760002E8
+69820_48,69820,'RR20121025_D1_elute_19','Velos Orbitrap',48.0,76.8,5.00,mw,annot,182.0
+69820_48,69820,'RR20121025_D1_elute_19','Velos Orbitrap',48.0,76.8,3.20,slot,msms,308.0
+69820_48,69820,'RR20121025_D1_elute_19','Velos Orbitrap',48.0,76.8,3.20,slot,apex,7.292802751360004E8
+69820_48,69820,'RR20121025_D1_elute_19','Velos Orbitrap',48.0,76.8,3.20,slot,annot,121.0
+69820_50,69820,'RR20121025_D1_elute_19','Velos Orbitrap',50.0,80.0,5.00,mw,msms,469.0
+69820_50,69820,'RR20121025_D1_elute_19','Velos Orbitrap',50.0,80.0,5.00,mw,apex,6.680540799559993E8
+69820_50,69820,'RR20121025_D1_elute_19','Velos Orbitrap',50.0,80.0,5.00,mw,annot,175.0
+69820_50,69820,'RR20121025_D1_elute_19','Velos Orbitrap',50.0,80.0,3.20,slot,msms,295.0
+69820_50,69820,'RR20121025_D1_elute_19','Velos Orbitrap',50.0,80.0,3.20,slot,apex,2.5671461804999992E8
+69820_50,69820,'RR20121025_D1_elute_19','Velos Orbitrap',50.0,80.0,3.20,slot,annot,109.0
+69820_52,69820,'RR20121025_D1_elute_19','Velos Orbitrap',52.0,83.2,5.00,mw,msms,472.0
+69820_52,69820,'RR20121025_D1_elute_19','Velos Orbitrap',52.0,83.2,5.00,mw,apex,2.39489797E8
+69820_52,69820,'RR20121025_D1_elute_19','Velos Orbitrap',52.0,83.2,5.00,mw,annot,168.0
+69820_52,69820,'RR20121025_D1_elute_19','Velos Orbitrap',52.0,83.2,3.20,slot,msms,303.0
+69820_52,69820,'RR20121025_D1_elute_19','Velos Orbitrap',52.0,83.2,3.20,slot,apex,1.5926994641000006E8
+69820_52,69820,'RR20121025_D1_elute_19','Velos Orbitrap',52.0,83.2,3.20,slot,annot,111.0
+69820_54,69820,'RR20121025_D1_elute_19','Velos Orbitrap',54.0,86.4,5.00,mw,msms,473.0
+69820_54,69820,'RR20121025_D1_elute_19','Velos Orbitrap',54.0,86.4,5.00,mw,apex,2.3548672441999978E8
+69820_54,69820,'RR20121025_D1_elute_19','Velos Orbitrap',54.0,86.4,5.00,mw,annot,151.0
+69820_54,69820,'RR20121025_D1_elute_19','Velos Orbitrap',54.0,86.4,3.20,slot,msms,302.0
+69820_54,69820,'RR20121025_D1_elute_19','Velos Orbitrap',54.0,86.4,3.20,slot,apex,1.4211991760000002E8
+69820_54,69820,'RR20121025_D1_elute_19','Velos Orbitrap',54.0,86.4,3.20,slot,annot,94.0
+69820_56,69820,'RR20121025_D1_elute_19','Velos Orbitrap',56.0,89.6,5.00,mw,msms,465.0
+69820_56,69820,'RR20121025_D1_elute_19','Velos Orbitrap',56.0,89.6,5.00,mw,apex,2.4501047131000003E8
+69820_56,69820,'RR20121025_D1_elute_19','Velos Orbitrap',56.0,89.6,5.00,mw,annot,139.0
+69820_56,69820,'RR20121025_D1_elute_19','Velos Orbitrap',56.0,89.6,3.20,slot,msms,301.0
+69820_56,69820,'RR20121025_D1_elute_19','Velos Orbitrap',56.0,89.6,3.20,slot,apex,1.854245107099999E8
+69820_56,69820,'RR20121025_D1_elute_19','Velos Orbitrap',56.0,89.6,3.20,slot,annot,98.0
+69820_58,69820,'RR20121025_D1_elute_19','Velos Orbitrap',58.0,92.8,5.00,mw,msms,457.0
+69820_58,69820,'RR20121025_D1_elute_19','Velos Orbitrap',58.0,92.8,5.00,mw,apex,1.7305153928999993E8
+69820_58,69820,'RR20121025_D1_elute_19','Velos Orbitrap',58.0,92.8,5.00,mw,annot,132.0
+69820_58,69820,'RR20121025_D1_elute_19','Velos Orbitrap',58.0,92.8,3.20,slot,msms,292.0
+69820_58,69820,'RR20121025_D1_elute_19','Velos Orbitrap',58.0,92.8,3.20,slot,apex,1.0968665343000002E8
+69820_58,69820,'RR20121025_D1_elute_19','Velos Orbitrap',58.0,92.8,3.20,slot,annot,78.0
+69820_60,69820,'RR20121025_D1_elute_19','Velos Orbitrap',60.0,96.0,5.00,mw,msms,455.0
+69820_60,69820,'RR20121025_D1_elute_19','Velos Orbitrap',60.0,96.0,5.00,mw,apex,1.5159408684000003E8
+69820_60,69820,'RR20121025_D1_elute_19','Velos Orbitrap',60.0,96.0,5.00,mw,annot,137.0
+69820_60,69820,'RR20121025_D1_elute_19','Velos Orbitrap',60.0,96.0,3.20,slot,msms,290.0
+69820_60,69820,'RR20121025_D1_elute_19','Velos Orbitrap',60.0,96.0,3.20,slot,apex,1.0745017451999992E8
+69820_60,69820,'RR20121025_D1_elute_19','Velos Orbitrap',60.0,96.0,3.20,slot,annot,84.0
+69820_62,69820,'RR20121025_D1_elute_19','Velos Orbitrap',62.0,99.2,5.00,mw,msms,459.0
+69820_62,69820,'RR20121025_D1_elute_19','Velos Orbitrap',62.0,99.2,5.00,mw,apex,1.9268638265299994E8
+69820_62,69820,'RR20121025_D1_elute_19','Velos Orbitrap',62.0,99.2,5.00,mw,annot,124.0
+69820_62,69820,'RR20121025_D1_elute_19','Velos Orbitrap',62.0,99.2,3.20,slot,msms,295.0
+69820_62,69820,'RR20121025_D1_elute_19','Velos Orbitrap',62.0,99.2,3.20,slot,apex,1.1240265626200005E8
+69820_62,69820,'RR20121025_D1_elute_19','Velos Orbitrap',62.0,99.2,3.20,slot,annot,88.0
+69820_64,69820,'RR20121025_D1_elute_19','Velos Orbitrap',64.0,102.4,5.00,mw,msms,473.0
+69820_64,69820,'RR20121025_D1_elute_19','Velos Orbitrap',64.0,102.4,5.00,mw,apex,3.122064014529999E8
+69820_64,69820,'RR20121025_D1_elute_19','Velos Orbitrap',64.0,102.4,5.00,mw,annot,124.0
+69820_64,69820,'RR20121025_D1_elute_19','Velos Orbitrap',64.0,102.4,3.20,slot,msms,303.0
+69820_64,69820,'RR20121025_D1_elute_19','Velos Orbitrap',64.0,102.4,3.20,slot,apex,9.1434835433E7
+69820_64,69820,'RR20121025_D1_elute_19','Velos Orbitrap',64.0,102.4,3.20,slot,annot,76.0
+69820_66,69820,'RR20121025_D1_elute_19','Velos Orbitrap',66.0,105.6,5.00,mw,msms,467.0
+69820_66,69820,'RR20121025_D1_elute_19','Velos Orbitrap',66.0,105.6,5.00,mw,apex,3.42760424502E8
+69820_66,69820,'RR20121025_D1_elute_19','Velos Orbitrap',66.0,105.6,5.00,mw,annot,116.0
+69820_66,69820,'RR20121025_D1_elute_19','Velos Orbitrap',66.0,105.6,3.20,slot,msms,295.0
+69820_66,69820,'RR20121025_D1_elute_19','Velos Orbitrap',66.0,105.6,3.20,slot,apex,3.1100138128600013E8
+69820_66,69820,'RR20121025_D1_elute_19','Velos Orbitrap',66.0,105.6,3.20,slot,annot,65.0
+69820_68,69820,'RR20121025_D1_elute_19','Velos Orbitrap',68.0,108.8,5.00,mw,msms,470.0
+69820_68,69820,'RR20121025_D1_elute_19','Velos Orbitrap',68.0,108.8,5.00,mw,apex,1.0983770838999997E8
+69820_68,69820,'RR20121025_D1_elute_19','Velos Orbitrap',68.0,108.8,5.00,mw,annot,113.0
+69820_68,69820,'RR20121025_D1_elute_19','Velos Orbitrap',68.0,108.8,3.20,slot,msms,303.0
+69820_68,69820,'RR20121025_D1_elute_19','Velos Orbitrap',68.0,108.8,3.20,slot,apex,4.886099670600006E7
+69820_68,69820,'RR20121025_D1_elute_19','Velos Orbitrap',68.0,108.8,3.20,slot,annot,76.0
+69820_70,69820,'RR20121025_D1_elute_19','Velos Orbitrap',70.0,112.0,5.00,mw,msms,466.0
+69820_70,69820,'RR20121025_D1_elute_19','Velos Orbitrap',70.0,112.0,5.00,mw,apex,5.9589995529E7
+69820_70,69820,'RR20121025_D1_elute_19','Velos Orbitrap',70.0,112.0,5.00,mw,annot,127.0
+69820_70,69820,'RR20121025_D1_elute_19','Velos Orbitrap',70.0,112.0,3.20,slot,msms,301.0
+69820_70,69820,'RR20121025_D1_elute_19','Velos Orbitrap',70.0,112.0,3.20,slot,apex,4.210231989699998E7
+69820_70,69820,'RR20121025_D1_elute_19','Velos Orbitrap',70.0,112.0,3.20,slot,annot,84.0
+69820_72,69820,'RR20121025_D1_elute_19','Velos Orbitrap',72.0,115.2,5.00,mw,msms,472.0
+69820_72,69820,'RR20121025_D1_elute_19','Velos Orbitrap',72.0,115.2,5.00,mw,apex,8.74979637849999E7
+69820_72,69820,'RR20121025_D1_elute_19','Velos Orbitrap',72.0,115.2,5.00,mw,annot,127.0
+69820_72,69820,'RR20121025_D1_elute_19','Velos Orbitrap',72.0,115.2,3.20,slot,msms,303.0
+69820_72,69820,'RR20121025_D1_elute_19','Velos Orbitrap',72.0,115.2,3.20,slot,apex,6.5041147386E7
+69820_72,69820,'RR20121025_D1_elute_19','Velos Orbitrap',72.0,115.2,3.20,slot,annot,89.0
+69820_74,69820,'RR20121025_D1_elute_19','Velos Orbitrap',74.0,118.4,5.00,mw,msms,468.0
+69820_74,69820,'RR20121025_D1_elute_19','Velos Orbitrap',74.0,118.4,5.00,mw,apex,3.849968876599998E7
+69820_74,69820,'RR20121025_D1_elute_19','Velos Orbitrap',74.0,118.4,5.00,mw,annot,105.0
+69820_74,69820,'RR20121025_D1_elute_19','Velos Orbitrap',74.0,118.4,3.20,slot,msms,296.0
+69820_74,69820,'RR20121025_D1_elute_19','Velos Orbitrap',74.0,118.4,3.20,slot,apex,2.3343259742000002E7
+69820_74,69820,'RR20121025_D1_elute_19','Velos Orbitrap',74.0,118.4,3.20,slot,annot,70.0
+69820_76,69820,'RR20121025_D1_elute_19','Velos Orbitrap',76.0,121.6,5.00,mw,msms,481.0
+69820_76,69820,'RR20121025_D1_elute_19','Velos Orbitrap',76.0,121.6,5.00,mw,apex,5.2680869835999966E7
+69820_76,69820,'RR20121025_D1_elute_19','Velos Orbitrap',76.0,121.6,5.00,mw,annot,83.0
+69820_76,69820,'RR20121025_D1_elute_19','Velos Orbitrap',76.0,121.6,3.20,slot,msms,310.0
+69820_76,69820,'RR20121025_D1_elute_19','Velos Orbitrap',76.0,121.6,3.20,slot,apex,2.796190148699999E7
+69820_76,69820,'RR20121025_D1_elute_19','Velos Orbitrap',76.0,121.6,3.20,slot,annot,49.0
+69820_78,69820,'RR20121025_D1_elute_19','Velos Orbitrap',78.0,124.8,5.00,mw,msms,476.0
+69820_78,69820,'RR20121025_D1_elute_19','Velos Orbitrap',78.0,124.8,5.00,mw,apex,3.88949985588E7
+69820_78,69820,'RR20121025_D1_elute_19','Velos Orbitrap',78.0,124.8,5.00,mw,annot,101.0
+69820_78,69820,'RR20121025_D1_elute_19','Velos Orbitrap',78.0,124.8,3.20,slot,msms,304.0
+69820_78,69820,'RR20121025_D1_elute_19','Velos Orbitrap',78.0,124.8,3.20,slot,apex,2.9314544496999983E7
+69820_78,69820,'RR20121025_D1_elute_19','Velos Orbitrap',78.0,124.8,3.20,slot,annot,56.0
+69820_80,69820,'RR20121025_D1_elute_19','Velos Orbitrap',80.0,128.0,5.00,mw,msms,477.0
+69820_80,69820,'RR20121025_D1_elute_19','Velos Orbitrap',80.0,128.0,5.00,mw,apex,3.0837927473299984E7
+69820_80,69820,'RR20121025_D1_elute_19','Velos Orbitrap',80.0,128.0,5.00,mw,annot,102.0
+69820_80,69820,'RR20121025_D1_elute_19','Velos Orbitrap',80.0,128.0,3.20,slot,msms,303.0
+69820_80,69820,'RR20121025_D1_elute_19','Velos Orbitrap',80.0,128.0,3.20,slot,apex,1.9785587428299975E7
+69820_80,69820,'RR20121025_D1_elute_19','Velos Orbitrap',80.0,128.0,3.20,slot,annot,69.0
+69820_82,69820,'RR20121025_D1_elute_19','Velos Orbitrap',82.0,131.2,5.00,mw,msms,462.0
+69820_82,69820,'RR20121025_D1_elute_19','Velos Orbitrap',82.0,131.2,5.00,mw,apex,4.0392670988500014E7
+69820_82,69820,'RR20121025_D1_elute_19','Velos Orbitrap',82.0,131.2,5.00,mw,annot,89.0
+69820_82,69820,'RR20121025_D1_elute_19','Velos Orbitrap',82.0,131.2,3.20,slot,msms,295.0
+69820_82,69820,'RR20121025_D1_elute_19','Velos Orbitrap',82.0,131.2,3.20,slot,apex,3.1090077990999997E7
+69820_82,69820,'RR20121025_D1_elute_19','Velos Orbitrap',82.0,131.2,3.20,slot,annot,56.0
+69820_84,69820,'RR20121025_D1_elute_19','Velos Orbitrap',84.0,134.4,5.00,mw,msms,470.0
+69820_84,69820,'RR20121025_D1_elute_19','Velos Orbitrap',84.0,134.4,5.00,mw,apex,3.401172587599997E7
+69820_84,69820,'RR20121025_D1_elute_19','Velos Orbitrap',84.0,134.4,5.00,mw,annot,97.0
+69820_84,69820,'RR20121025_D1_elute_19','Velos Orbitrap',84.0,134.4,3.20,slot,msms,297.0
+69820_84,69820,'RR20121025_D1_elute_19','Velos Orbitrap',84.0,134.4,3.20,slot,apex,2.3204958969999988E7
+69820_84,69820,'RR20121025_D1_elute_19','Velos Orbitrap',84.0,134.4,3.20,slot,annot,57.0
+69820_86,69820,'RR20121025_D1_elute_19','Velos Orbitrap',86.0,137.6,5.00,mw,msms,456.0
+69820_86,69820,'RR20121025_D1_elute_19','Velos Orbitrap',86.0,137.6,5.00,mw,apex,2.2057253823000006E7
+69820_86,69820,'RR20121025_D1_elute_19','Velos Orbitrap',86.0,137.6,5.00,mw,annot,54.0
+69820_86,69820,'RR20121025_D1_elute_19','Velos Orbitrap',86.0,137.6,3.20,slot,msms,294.0
+69820_86,69820,'RR20121025_D1_elute_19','Velos Orbitrap',86.0,137.6,3.20,slot,apex,1.6393828278000003E7
+69820_86,69820,'RR20121025_D1_elute_19','Velos Orbitrap',86.0,137.6,3.20,slot,annot,34.0
+69820_88,69820,'RR20121025_D1_elute_19','Velos Orbitrap',88.0,140.8,5.00,mw,msms,367.0
+69820_88,69820,'RR20121025_D1_elute_19','Velos Orbitrap',88.0,140.8,5.00,mw,apex,1.6549841857899996E7
+69820_88,69820,'RR20121025_D1_elute_19','Velos Orbitrap',88.0,140.8,5.00,mw,annot,10.0
+69820_88,69820,'RR20121025_D1_elute_19','Velos Orbitrap',88.0,140.8,3.20,slot,msms,234.0
+69820_88,69820,'RR20121025_D1_elute_19','Velos Orbitrap',88.0,140.8,3.20,slot,apex,9408391.424799994
+69820_88,69820,'RR20121025_D1_elute_19','Velos Orbitrap',88.0,140.8,3.20,slot,annot,6.0
+69820_90,69820,'RR20121025_D1_elute_19','Velos Orbitrap',90.0,144.0,5.00,mw,msms,206.0
+69820_90,69820,'RR20121025_D1_elute_19','Velos Orbitrap',90.0,144.0,5.00,mw,apex,2053032.6139000012
+69820_90,69820,'RR20121025_D1_elute_19','Velos Orbitrap',90.0,144.0,5.00,mw,annot,27.0
+69820_90,69820,'RR20121025_D1_elute_19','Velos Orbitrap',90.0,144.0,3.20,slot,msms,136.0
+69820_90,69820,'RR20121025_D1_elute_19','Velos Orbitrap',90.0,144.0,3.20,slot,apex,1303592.3709999998
+69820_90,69820,'RR20121025_D1_elute_19','Velos Orbitrap',90.0,144.0,3.20,slot,annot,16.0
+69820_92,69820,'RR20121025_D1_elute_19','Velos Orbitrap',92.0,147.2,5.00,mw,msms,261.0
+69820_92,69820,'RR20121025_D1_elute_19','Velos Orbitrap',92.0,147.2,5.00,mw,apex,1486479.215000001
+69820_92,69820,'RR20121025_D1_elute_19','Velos Orbitrap',92.0,147.2,5.00,mw,annot,59.0
+69820_92,69820,'RR20121025_D1_elute_19','Velos Orbitrap',92.0,147.2,3.20,slot,msms,148.0
+69820_92,69820,'RR20121025_D1_elute_19','Velos Orbitrap',92.0,147.2,3.20,slot,apex,824938.8574000001
+69820_92,69820,'RR20121025_D1_elute_19','Velos Orbitrap',92.0,147.2,3.20,slot,annot,36.0
+69820_94,69820,'RR20121025_D1_elute_19','Velos Orbitrap',94.0,150.4,5.00,mw,msms,329.0
+69820_94,69820,'RR20121025_D1_elute_19','Velos Orbitrap',94.0,150.4,5.00,mw,apex,1547511.6842000016
+69820_94,69820,'RR20121025_D1_elute_19','Velos Orbitrap',94.0,150.4,5.00,mw,annot,87.0
+69820_94,69820,'RR20121025_D1_elute_19','Velos Orbitrap',94.0,150.4,3.20,slot,msms,236.0
+69820_94,69820,'RR20121025_D1_elute_19','Velos Orbitrap',94.0,150.4,3.20,slot,apex,849119.0952999997
+69820_94,69820,'RR20121025_D1_elute_19','Velos Orbitrap',94.0,150.4,3.20,slot,annot,55.0
+69820_96,69820,'RR20121025_D1_elute_19','Velos Orbitrap',96.0,153.6,5.00,mw,msms,139.0
+69820_96,69820,'RR20121025_D1_elute_19','Velos Orbitrap',96.0,153.6,5.00,mw,apex,274446.5564
+69820_96,69820,'RR20121025_D1_elute_19','Velos Orbitrap',96.0,153.6,5.00,mw,annot,58.0
+69820_96,69820,'RR20121025_D1_elute_19','Velos Orbitrap',96.0,153.6,3.20,slot,msms,84.0
+69820_96,69820,'RR20121025_D1_elute_19','Velos Orbitrap',96.0,153.6,3.20,slot,apex,144945.03180000003
+69820_96,69820,'RR20121025_D1_elute_19','Velos Orbitrap',96.0,153.6,3.20,slot,annot,39.0
+69820_98,69820,'RR20121025_D1_elute_19','Velos Orbitrap',98.0,156.8,5.00,mw,msms,180.0
+69820_98,69820,'RR20121025_D1_elute_19','Velos Orbitrap',98.0,156.8,5.00,mw,apex,748366.4229
+69820_98,69820,'RR20121025_D1_elute_19','Velos Orbitrap',98.0,156.8,5.00,mw,annot,80.0
+69820_98,69820,'RR20121025_D1_elute_19','Velos Orbitrap',98.0,156.8,3.20,slot,msms,125.0
+69820_98,69820,'RR20121025_D1_elute_19','Velos Orbitrap',98.0,156.8,3.20,slot,apex,656541.8859
+69820_98,69820,'RR20121025_D1_elute_19','Velos Orbitrap',98.0,156.8,3.20,slot,annot,58.0
+69820_100,69820,'RR20121025_D1_elute_19','Velos Orbitrap',100.0,160.0,5.00,mw,msms,89.0
+69820_100,69820,'RR20121025_D1_elute_19','Velos Orbitrap',100.0,160.0,5.00,mw,apex,161351.70240000007
+69820_100,69820,'RR20121025_D1_elute_19','Velos Orbitrap',100.0,160.0,5.00,mw,annot,35.0
+69820_100,69820,'RR20121025_D1_elute_19','Velos Orbitrap',100.0,160.0,3.20,slot,msms,51.0
+69820_100,69820,'RR20121025_D1_elute_19','Velos Orbitrap',100.0,160.0,3.20,slot,apex,78141.2691
+69820_100,69820,'RR20121025_D1_elute_19','Velos Orbitrap',100.0,160.0,3.20,slot,annot,19.0
+54803_0,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',0.0,0.0,5.00,mw,msms,4.0
+54803_0,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',0.0,0.0,5.00,mw,apex,58464.2
+54803_0,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',0.0,0.0,5.00,mw,annot,0.0
+54803_0,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',0.0,0.0,5.00,slot,msms,4.0
+54803_0,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',0.0,0.0,5.00,slot,apex,58464.2
+54803_0,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',0.0,0.0,5.00,slot,annot,0.0
+54803_2,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',2.0,5.0,5.00,mw,msms,33.0
+54803_2,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',2.0,5.0,5.00,mw,apex,3.7251703273E7
+54803_2,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',2.0,5.0,5.00,mw,annot,5.0
+54803_2,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',2.0,5.0,5.00,slot,msms,33.0
+54803_2,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',2.0,5.0,5.00,slot,apex,3.7251703273E7
+54803_2,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',2.0,5.0,5.00,slot,annot,5.0
+54803_4,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',4.0,10.0,5.00,mw,msms,1.0
+54803_4,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',4.0,10.0,5.00,mw,apex,790458.6
+54803_4,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',4.0,10.0,5.00,mw,annot,1.0
+54803_4,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',4.0,10.0,5.00,slot,msms,1.0
+54803_4,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',4.0,10.0,5.00,slot,apex,790458.6
+54803_4,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',4.0,10.0,5.00,slot,annot,1.0
+54803_6,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',6.0,15.0,5.00,mw,msms,86.0
+54803_6,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',6.0,15.0,5.00,mw,apex,9527449.020000001
+54803_6,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',6.0,15.0,5.00,mw,annot,13.0
+54803_6,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',6.0,15.0,5.00,slot,msms,86.0
+54803_6,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',6.0,15.0,5.00,slot,apex,9527449.020000001
+54803_6,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',6.0,15.0,5.00,slot,annot,13.0
+54803_8,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',8.0,20.0,5.00,mw,msms,341.0
+54803_8,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',8.0,20.0,5.00,mw,apex,3.18532504786E8
+54803_8,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',8.0,20.0,5.00,mw,annot,89.0
+54803_8,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',8.0,20.0,5.00,slot,msms,341.0
+54803_8,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',8.0,20.0,5.00,slot,apex,3.18532504786E8
+54803_8,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',8.0,20.0,5.00,slot,annot,89.0
+54803_10,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',10.0,25.0,5.00,mw,msms,399.0
+54803_10,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',10.0,25.0,5.00,mw,apex,1.65933613891E9
+54803_10,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',10.0,25.0,5.00,mw,annot,171.0
+54803_10,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',10.0,25.0,5.00,slot,msms,399.0
+54803_10,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',10.0,25.0,5.00,slot,apex,1.65933613891E9
+54803_10,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',10.0,25.0,5.00,slot,annot,171.0
+54803_12,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',12.0,30.0,5.00,mw,msms,422.0
+54803_12,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',12.0,30.0,5.00,mw,apex,2.768337142253E10
+54803_12,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',12.0,30.0,5.00,mw,annot,208.0
+54803_12,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',12.0,30.0,5.00,slot,msms,422.0
+54803_12,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',12.0,30.0,5.00,slot,apex,2.768337142253E10
+54803_12,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',12.0,30.0,5.00,slot,annot,208.0
+54803_14,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',14.0,35.0,5.00,mw,msms,430.0
+54803_14,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',14.0,35.0,5.00,mw,apex,4.45378875574E10
+54803_14,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',14.0,35.0,5.00,mw,annot,261.0
+54803_14,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',14.0,35.0,5.00,slot,msms,430.0
+54803_14,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',14.0,35.0,5.00,slot,apex,4.45378875574E10
+54803_14,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',14.0,35.0,5.00,slot,annot,261.0
+54803_16,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',16.0,40.0,5.00,mw,msms,419.0
+54803_16,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',16.0,40.0,5.00,mw,apex,3.81964944138E10
+54803_16,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',16.0,40.0,5.00,mw,annot,250.0
+54803_16,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',16.0,40.0,5.00,slot,msms,419.0
+54803_16,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',16.0,40.0,5.00,slot,apex,3.81964944138E10
+54803_16,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',16.0,40.0,5.00,slot,annot,250.0
+54803_18,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',18.0,45.0,5.00,mw,msms,439.0
+54803_18,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',18.0,45.0,5.00,mw,apex,2.90004598619E10
+54803_18,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',18.0,45.0,5.00,mw,annot,282.0
+54803_18,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',18.0,45.0,5.00,slot,msms,439.0
+54803_18,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',18.0,45.0,5.00,slot,apex,2.90004598619E10
+54803_18,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',18.0,45.0,5.00,slot,annot,282.0
+54803_20,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',20.0,50.0,5.00,mw,msms,416.0
+54803_20,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',20.0,50.0,5.00,mw,apex,2.35471673859E10
+54803_20,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',20.0,50.0,5.00,mw,annot,274.0
+54803_20,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',20.0,50.0,5.00,slot,msms,416.0
+54803_20,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',20.0,50.0,5.00,slot,apex,2.35471673859E10
+54803_20,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',20.0,50.0,5.00,slot,annot,274.0
+54803_22,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',22.0,55.0,5.00,mw,msms,404.0
+54803_22,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',22.0,55.0,5.00,mw,apex,1.9709724934199997E10
+54803_22,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',22.0,55.0,5.00,mw,annot,270.0
+54803_22,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',22.0,55.0,5.00,slot,msms,404.0
+54803_22,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',22.0,55.0,5.00,slot,apex,1.9709724934199997E10
+54803_22,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',22.0,55.0,5.00,slot,annot,270.0
+54803_24,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',24.0,60.0,5.00,mw,msms,436.0
+54803_24,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',24.0,60.0,5.00,mw,apex,2.1235269822E10
+54803_24,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',24.0,60.0,5.00,mw,annot,308.0
+54803_24,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',24.0,60.0,5.00,slot,msms,436.0
+54803_24,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',24.0,60.0,5.00,slot,apex,2.1235269822E10
+54803_24,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',24.0,60.0,5.00,slot,annot,308.0
+54803_26,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',26.0,65.0,5.00,mw,msms,400.0
+54803_26,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',26.0,65.0,5.00,mw,apex,2.43144803395E10
+54803_26,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',26.0,65.0,5.00,mw,annot,290.0
+54803_26,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',26.0,65.0,5.00,slot,msms,400.0
+54803_26,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',26.0,65.0,5.00,slot,apex,2.43144803395E10
+54803_26,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',26.0,65.0,5.00,slot,annot,290.0
+54803_28,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',28.0,70.0,5.00,mw,msms,395.0
+54803_28,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',28.0,70.0,5.00,mw,apex,2.28213784962E10
+54803_28,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',28.0,70.0,5.00,mw,annot,282.0
+54803_28,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',28.0,70.0,5.00,slot,msms,395.0
+54803_28,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',28.0,70.0,5.00,slot,apex,2.28213784962E10
+54803_28,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',28.0,70.0,5.00,slot,annot,282.0
+54803_30,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',30.0,75.0,5.00,mw,msms,399.0
+54803_30,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',30.0,75.0,5.00,mw,apex,2.08661771718E10
+54803_30,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',30.0,75.0,5.00,mw,annot,292.0
+54803_30,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',30.0,75.0,5.00,slot,msms,399.0
+54803_30,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',30.0,75.0,5.00,slot,apex,2.08661771718E10
+54803_30,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',30.0,75.0,5.00,slot,annot,292.0
+54803_32,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',32.0,80.0,5.00,mw,msms,394.0
+54803_32,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',32.0,80.0,5.00,mw,apex,2.2043604254100002E10
+54803_32,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',32.0,80.0,5.00,mw,annot,303.0
+54803_32,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',32.0,80.0,5.00,slot,msms,394.0
+54803_32,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',32.0,80.0,5.00,slot,apex,2.2043604254100002E10
+54803_32,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',32.0,80.0,5.00,slot,annot,303.0
+54803_34,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',34.0,85.0,5.00,mw,msms,398.0
+54803_34,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',34.0,85.0,5.00,mw,apex,1.7495437504E10
+54803_34,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',34.0,85.0,5.00,mw,annot,318.0
+54803_34,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',34.0,85.0,5.00,slot,msms,398.0
+54803_34,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',34.0,85.0,5.00,slot,apex,1.7495437504E10
+54803_34,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',34.0,85.0,5.00,slot,annot,318.0
+54803_36,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',36.0,90.0,5.00,mw,msms,396.0
+54803_36,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',36.0,90.0,5.00,mw,apex,1.82092615769E10
+54803_36,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',36.0,90.0,5.00,mw,annot,288.0
+54803_36,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',36.0,90.0,5.00,slot,msms,396.0
+54803_36,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',36.0,90.0,5.00,slot,apex,1.82092615769E10
+54803_36,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',36.0,90.0,5.00,slot,annot,288.0
+54803_38,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',38.0,95.0,5.00,mw,msms,388.0
+54803_38,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',38.0,95.0,5.00,mw,apex,1.5207440878300001E10
+54803_38,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',38.0,95.0,5.00,mw,annot,321.0
+54803_38,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',38.0,95.0,5.00,slot,msms,388.0
+54803_38,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',38.0,95.0,5.00,slot,apex,1.5207440878300001E10
+54803_38,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',38.0,95.0,5.00,slot,annot,321.0
+54803_40,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',40.0,100.0,5.00,mw,msms,391.0
+54803_40,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',40.0,100.0,5.00,mw,apex,1.6982684481000002E10
+54803_40,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',40.0,100.0,5.00,mw,annot,318.0
+54803_40,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',40.0,100.0,5.00,slot,msms,391.0
+54803_40,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',40.0,100.0,5.00,slot,apex,1.6982684481000002E10
+54803_40,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',40.0,100.0,5.00,slot,annot,318.0
+54803_42,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',42.0,105.0,5.00,mw,msms,384.0
+54803_42,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',42.0,105.0,5.00,mw,apex,1.6592588787599998E10
+54803_42,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',42.0,105.0,5.00,mw,annot,313.0
+54803_42,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',42.0,105.0,5.00,slot,msms,384.0
+54803_42,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',42.0,105.0,5.00,slot,apex,1.6592588787599998E10
+54803_42,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',42.0,105.0,5.00,slot,annot,313.0
+54803_44,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',44.0,110.0,5.00,mw,msms,408.0
+54803_44,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',44.0,110.0,5.00,mw,apex,1.47490197373E10
+54803_44,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',44.0,110.0,5.00,mw,annot,347.0
+54803_44,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',44.0,110.0,5.00,slot,msms,408.0
+54803_44,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',44.0,110.0,5.00,slot,apex,1.47490197373E10
+54803_44,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',44.0,110.0,5.00,slot,annot,347.0
+54803_46,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',46.0,115.0,5.00,mw,msms,394.0
+54803_46,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',46.0,115.0,5.00,mw,apex,1.07585747197E10
+54803_46,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',46.0,115.0,5.00,mw,annot,317.0
+54803_46,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',46.0,115.0,5.00,slot,msms,394.0
+54803_46,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',46.0,115.0,5.00,slot,apex,1.07585747197E10
+54803_46,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',46.0,115.0,5.00,slot,annot,317.0
+54803_48,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',48.0,120.0,5.00,mw,msms,389.0
+54803_48,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',48.0,120.0,5.00,mw,apex,1.3830338394099998E10
+54803_48,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',48.0,120.0,5.00,mw,annot,313.0
+54803_48,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',48.0,120.0,5.00,slot,msms,389.0
+54803_48,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',48.0,120.0,5.00,slot,apex,1.3830338394099998E10
+54803_48,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',48.0,120.0,5.00,slot,annot,313.0
+54803_50,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',50.0,125.0,5.00,mw,msms,390.0
+54803_50,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',50.0,125.0,5.00,mw,apex,1.30179089399E10
+54803_50,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',50.0,125.0,5.00,mw,annot,336.0
+54803_50,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',50.0,125.0,5.00,slot,msms,390.0
+54803_50,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',50.0,125.0,5.00,slot,apex,1.30179089399E10
+54803_50,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',50.0,125.0,5.00,slot,annot,336.0
+54803_52,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',52.0,130.0,5.00,mw,msms,408.0
+54803_52,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',52.0,130.0,5.00,mw,apex,1.86091170128E10
+54803_52,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',52.0,130.0,5.00,mw,annot,353.0
+54803_52,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',52.0,130.0,5.00,slot,msms,408.0
+54803_52,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',52.0,130.0,5.00,slot,apex,1.86091170128E10
+54803_52,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',52.0,130.0,5.00,slot,annot,353.0
+54803_54,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',54.0,135.0,5.00,mw,msms,387.0
+54803_54,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',54.0,135.0,5.00,mw,apex,1.5923835940300001E10
+54803_54,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',54.0,135.0,5.00,mw,annot,327.0
+54803_54,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',54.0,135.0,5.00,slot,msms,387.0
+54803_54,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',54.0,135.0,5.00,slot,apex,1.5923835940300001E10
+54803_54,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',54.0,135.0,5.00,slot,annot,327.0
+54803_56,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',56.0,140.0,5.00,mw,msms,398.0
+54803_56,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',56.0,140.0,5.00,mw,apex,1.1648961608900002E10
+54803_56,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',56.0,140.0,5.00,mw,annot,357.0
+54803_56,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',56.0,140.0,5.00,slot,msms,398.0
+54803_56,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',56.0,140.0,5.00,slot,apex,1.1648961608900002E10
+54803_56,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',56.0,140.0,5.00,slot,annot,357.0
+54803_58,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',58.0,145.0,5.00,mw,msms,363.0
+54803_58,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',58.0,145.0,5.00,mw,apex,1.0289329349E10
+54803_58,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',58.0,145.0,5.00,mw,annot,324.0
+54803_58,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',58.0,145.0,5.00,slot,msms,363.0
+54803_58,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',58.0,145.0,5.00,slot,apex,1.0289329349E10
+54803_58,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',58.0,145.0,5.00,slot,annot,324.0
+54803_60,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',60.0,150.0,5.00,mw,msms,384.0
+54803_60,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',60.0,150.0,5.00,mw,apex,9.4083625466E9
+54803_60,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',60.0,150.0,5.00,mw,annot,343.0
+54803_60,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',60.0,150.0,5.00,slot,msms,384.0
+54803_60,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',60.0,150.0,5.00,slot,apex,9.4083625466E9
+54803_60,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',60.0,150.0,5.00,slot,annot,343.0
+54803_62,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',62.0,155.0,5.00,mw,msms,383.0
+54803_62,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',62.0,155.0,5.00,mw,apex,1.05564072238E10
+54803_62,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',62.0,155.0,5.00,mw,annot,323.0
+54803_62,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',62.0,155.0,5.00,slot,msms,383.0
+54803_62,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',62.0,155.0,5.00,slot,apex,1.05564072238E10
+54803_62,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',62.0,155.0,5.00,slot,annot,323.0
+54803_64,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',64.0,160.0,5.00,mw,msms,361.0
+54803_64,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',64.0,160.0,5.00,mw,apex,7.750666730699999E9
+54803_64,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',64.0,160.0,5.00,mw,annot,291.0
+54803_64,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',64.0,160.0,5.00,slot,msms,361.0
+54803_64,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',64.0,160.0,5.00,slot,apex,7.750666730699999E9
+54803_64,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',64.0,160.0,5.00,slot,annot,291.0
+54803_66,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',66.0,165.0,5.00,mw,msms,366.0
+54803_66,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',66.0,165.0,5.00,mw,apex,5.3495148292E9
+54803_66,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',66.0,165.0,5.00,mw,annot,294.0
+54803_66,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',66.0,165.0,5.00,slot,msms,366.0
+54803_66,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',66.0,165.0,5.00,slot,apex,5.3495148292E9
+54803_66,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',66.0,165.0,5.00,slot,annot,294.0
+54803_68,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',68.0,170.0,5.00,mw,msms,394.0
+54803_68,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',68.0,170.0,5.00,mw,apex,6.148748807700001E9
+54803_68,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',68.0,170.0,5.00,mw,annot,329.0
+54803_68,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',68.0,170.0,5.00,slot,msms,394.0
+54803_68,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',68.0,170.0,5.00,slot,apex,6.148748807700001E9
+54803_68,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',68.0,170.0,5.00,slot,annot,329.0
+54803_70,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',70.0,175.0,5.00,mw,msms,374.0
+54803_70,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',70.0,175.0,5.00,mw,apex,6.204242007300001E9
+54803_70,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',70.0,175.0,5.00,mw,annot,318.0
+54803_70,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',70.0,175.0,5.00,slot,msms,374.0
+54803_70,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',70.0,175.0,5.00,slot,apex,6.204242007300001E9
+54803_70,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',70.0,175.0,5.00,slot,annot,318.0
+54803_72,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',72.0,180.0,5.00,mw,msms,387.0
+54803_72,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',72.0,180.0,5.00,mw,apex,5.594682470900001E9
+54803_72,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',72.0,180.0,5.00,mw,annot,315.0
+54803_72,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',72.0,180.0,5.00,slot,msms,387.0
+54803_72,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',72.0,180.0,5.00,slot,apex,5.594682470900001E9
+54803_72,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',72.0,180.0,5.00,slot,annot,315.0
+54803_74,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',74.0,185.0,5.00,mw,msms,330.0
+54803_74,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',74.0,185.0,5.00,mw,apex,3.6588193747E9
+54803_74,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',74.0,185.0,5.00,mw,annot,218.0
+54803_74,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',74.0,185.0,5.00,slot,msms,330.0
+54803_74,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',74.0,185.0,5.00,slot,apex,3.6588193747E9
+54803_74,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',74.0,185.0,5.00,slot,annot,218.0
+54803_76,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',76.0,190.0,5.00,mw,msms,351.0
+54803_76,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',76.0,190.0,5.00,mw,apex,3.313793587E9
+54803_76,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',76.0,190.0,5.00,mw,annot,288.0
+54803_76,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',76.0,190.0,5.00,slot,msms,351.0
+54803_76,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',76.0,190.0,5.00,slot,apex,3.313793587E9
+54803_76,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',76.0,190.0,5.00,slot,annot,288.0
+54803_78,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',78.0,195.0,5.00,mw,msms,358.0
+54803_78,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',78.0,195.0,5.00,mw,apex,3.5741043500000005E9
+54803_78,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',78.0,195.0,5.00,mw,annot,289.0
+54803_78,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',78.0,195.0,5.00,slot,msms,358.0
+54803_78,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',78.0,195.0,5.00,slot,apex,3.5741043500000005E9
+54803_78,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',78.0,195.0,5.00,slot,annot,289.0
+54803_80,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',80.0,200.0,5.00,mw,msms,312.0
+54803_80,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',80.0,200.0,5.00,mw,apex,2.0249798859999998E9
+54803_80,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',80.0,200.0,5.00,mw,annot,254.0
+54803_80,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',80.0,200.0,5.00,slot,msms,312.0
+54803_80,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',80.0,200.0,5.00,slot,apex,2.0249798859999998E9
+54803_80,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',80.0,200.0,5.00,slot,annot,254.0
+54803_82,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',82.0,205.0,5.00,mw,msms,319.0
+54803_82,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',82.0,205.0,5.00,mw,apex,2.0443427786E9
+54803_82,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',82.0,205.0,5.00,mw,annot,249.0
+54803_82,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',82.0,205.0,5.00,slot,msms,319.0
+54803_82,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',82.0,205.0,5.00,slot,apex,2.0443427786E9
+54803_82,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',82.0,205.0,5.00,slot,annot,249.0
+54803_84,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',84.0,210.0,5.00,mw,msms,356.0
+54803_84,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',84.0,210.0,5.00,mw,apex,1.46233682363E9
+54803_84,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',84.0,210.0,5.00,mw,annot,298.0
+54803_84,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',84.0,210.0,5.00,slot,msms,356.0
+54803_84,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',84.0,210.0,5.00,slot,apex,1.46233682363E9
+54803_84,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',84.0,210.0,5.00,slot,annot,298.0
+54803_86,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',86.0,215.0,5.00,mw,msms,339.0
+54803_86,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',86.0,215.0,5.00,mw,apex,1.33554486123E9
+54803_86,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',86.0,215.0,5.00,mw,annot,289.0
+54803_86,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',86.0,215.0,5.00,slot,msms,339.0
+54803_86,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',86.0,215.0,5.00,slot,apex,1.33554486123E9
+54803_86,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',86.0,215.0,5.00,slot,annot,289.0
+54803_88,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',88.0,220.0,5.00,mw,msms,331.0
+54803_88,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',88.0,220.0,5.00,mw,apex,1.0265780539599998E9
+54803_88,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',88.0,220.0,5.00,mw,annot,272.0
+54803_88,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',88.0,220.0,5.00,slot,msms,331.0
+54803_88,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',88.0,220.0,5.00,slot,apex,1.0265780539599998E9
+54803_88,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',88.0,220.0,5.00,slot,annot,272.0
+54803_90,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',90.0,225.0,5.00,mw,msms,337.0
+54803_90,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',90.0,225.0,5.00,mw,apex,1.31756012947E9
+54803_90,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',90.0,225.0,5.00,mw,annot,259.0
+54803_90,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',90.0,225.0,5.00,slot,msms,337.0
+54803_90,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',90.0,225.0,5.00,slot,apex,1.31756012947E9
+54803_90,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',90.0,225.0,5.00,slot,annot,259.0
+54803_92,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',92.0,230.0,5.00,mw,msms,384.0
+54803_92,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',92.0,230.0,5.00,mw,apex,4.376303400200001E9
+54803_92,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',92.0,230.0,5.00,mw,annot,283.0
+54803_92,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',92.0,230.0,5.00,slot,msms,384.0
+54803_92,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',92.0,230.0,5.00,slot,apex,4.376303400200001E9
+54803_92,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',92.0,230.0,5.00,slot,annot,283.0
+54803_94,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',94.0,235.0,5.00,mw,msms,147.0
+54803_94,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',94.0,235.0,5.00,mw,apex,3.720087590989998E8
+54803_94,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',94.0,235.0,5.00,mw,annot,48.0
+54803_94,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',94.0,235.0,5.00,slot,msms,147.0
+54803_94,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',94.0,235.0,5.00,slot,apex,3.720087590989998E8
+54803_94,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',94.0,235.0,5.00,slot,annot,48.0
+54803_96,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',96.0,240.0,5.00,mw,msms,6.0
+54803_96,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',96.0,240.0,5.00,mw,apex,213787.39
+54803_96,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',96.0,240.0,5.00,mw,annot,0.0
+54803_96,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',96.0,240.0,5.00,slot,msms,6.0
+54803_96,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',96.0,240.0,5.00,slot,apex,213787.39
+54803_96,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',96.0,240.0,5.00,slot,annot,0.0
+54803_98,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',98.0,245.0,5.00,mw,msms,0.0
+54803_98,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',98.0,245.0,5.00,mw,apex,0.0
+54803_98,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',98.0,245.0,5.00,mw,annot,0.0
+54803_98,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',98.0,245.0,5.00,slot,msms,0.0
+54803_98,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',98.0,245.0,5.00,slot,apex,0.0
+54803_98,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',98.0,245.0,5.00,slot,annot,0.0
+54803_100,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',100.0,250.0,5.00,mw,msms,0.0
+54803_100,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',100.0,250.0,5.00,mw,apex,0.0
+54803_100,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',100.0,250.0,5.00,mw,annot,0.0
+54803_100,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',100.0,250.0,5.00,slot,msms,0.0
+54803_100,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',100.0,250.0,5.00,slot,apex,0.0
+54803_100,54803,'20081129_Orbi6_NaNa_SA_FASP_blacktips_01','12,500 MCF7 cells, 7.5 ug total proteins',100.0,250.0,5.00,slot,annot,0.0
+54808_0,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',0.0,0.0,5.00,mw,msms,4.0
+54808_0,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',0.0,0.0,5.00,mw,apex,83672.05
+54808_0,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',0.0,0.0,5.00,mw,annot,0.0
+54808_0,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',0.0,0.0,5.00,slot,msms,4.0
+54808_0,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',0.0,0.0,5.00,slot,apex,83672.05
+54808_0,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',0.0,0.0,5.00,slot,annot,0.0
+54808_2,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',2.0,5.0,5.00,mw,msms,17.0
+54808_2,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',2.0,5.0,5.00,mw,apex,1.1828089610000001E7
+54808_2,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',2.0,5.0,5.00,mw,annot,3.0
+54808_2,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',2.0,5.0,5.00,slot,msms,17.0
+54808_2,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',2.0,5.0,5.00,slot,apex,1.1828089610000001E7
+54808_2,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',2.0,5.0,5.00,slot,annot,3.0
+54808_4,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',4.0,10.0,5.00,mw,msms,38.0
+54808_4,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',4.0,10.0,5.00,mw,apex,1.0463406174999997E8
+54808_4,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',4.0,10.0,5.00,mw,annot,16.0
+54808_4,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',4.0,10.0,5.00,slot,msms,38.0
+54808_4,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',4.0,10.0,5.00,slot,apex,1.0463406174999997E8
+54808_4,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',4.0,10.0,5.00,slot,annot,16.0
+54808_6,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',6.0,15.0,5.00,mw,msms,388.0
+54808_6,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',6.0,15.0,5.00,mw,apex,1.3606664990299997E9
+54808_6,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',6.0,15.0,5.00,mw,annot,147.0
+54808_6,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',6.0,15.0,5.00,slot,msms,388.0
+54808_6,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',6.0,15.0,5.00,slot,apex,1.3606664990299997E9
+54808_6,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',6.0,15.0,5.00,slot,annot,147.0
+54808_8,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',8.0,20.0,5.00,mw,msms,239.0
+54808_8,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',8.0,20.0,5.00,mw,apex,6.721535286299999E8
+54808_8,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',8.0,20.0,5.00,mw,annot,96.0
+54808_8,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',8.0,20.0,5.00,slot,msms,239.0
+54808_8,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',8.0,20.0,5.00,slot,apex,6.721535286299999E8
+54808_8,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',8.0,20.0,5.00,slot,annot,96.0
+54808_10,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',10.0,25.0,5.00,mw,msms,193.0
+54808_10,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',10.0,25.0,5.00,mw,apex,3.3258988718999976E8
+54808_10,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',10.0,25.0,5.00,mw,annot,76.0
+54808_10,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',10.0,25.0,5.00,slot,msms,193.0
+54808_10,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',10.0,25.0,5.00,slot,apex,3.3258988718999976E8
+54808_10,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',10.0,25.0,5.00,slot,annot,76.0
+54808_12,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',12.0,30.0,5.00,mw,msms,365.0
+54808_12,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',12.0,30.0,5.00,mw,apex,3.4983005959699993E9
+54808_12,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',12.0,30.0,5.00,mw,annot,176.0
+54808_12,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',12.0,30.0,5.00,slot,msms,365.0
+54808_12,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',12.0,30.0,5.00,slot,apex,3.4983005959699993E9
+54808_12,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',12.0,30.0,5.00,slot,annot,176.0
+54808_14,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',14.0,35.0,5.00,mw,msms,418.0
+54808_14,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',14.0,35.0,5.00,mw,apex,3.0665950732799993E9
+54808_14,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',14.0,35.0,5.00,mw,annot,204.0
+54808_14,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',14.0,35.0,5.00,slot,msms,418.0
+54808_14,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',14.0,35.0,5.00,slot,apex,3.0665950732799993E9
+54808_14,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',14.0,35.0,5.00,slot,annot,204.0
+54808_16,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',16.0,40.0,5.00,mw,msms,374.0
+54808_16,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',16.0,40.0,5.00,mw,apex,2.2008180006499996E9
+54808_16,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',16.0,40.0,5.00,mw,annot,176.0
+54808_16,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',16.0,40.0,5.00,slot,msms,374.0
+54808_16,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',16.0,40.0,5.00,slot,apex,2.2008180006499996E9
+54808_16,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',16.0,40.0,5.00,slot,annot,176.0
+54808_18,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',18.0,45.0,5.00,mw,msms,318.0
+54808_18,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',18.0,45.0,5.00,mw,apex,1.11697506476E9
+54808_18,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',18.0,45.0,5.00,mw,annot,164.0
+54808_18,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',18.0,45.0,5.00,slot,msms,318.0
+54808_18,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',18.0,45.0,5.00,slot,apex,1.11697506476E9
+54808_18,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',18.0,45.0,5.00,slot,annot,164.0
+54808_20,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',20.0,50.0,5.00,mw,msms,320.0
+54808_20,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',20.0,50.0,5.00,mw,apex,1.9644072033300002E9
+54808_20,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',20.0,50.0,5.00,mw,annot,185.0
+54808_20,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',20.0,50.0,5.00,slot,msms,320.0
+54808_20,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',20.0,50.0,5.00,slot,apex,1.9644072033300002E9
+54808_20,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',20.0,50.0,5.00,slot,annot,185.0
+54808_22,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',22.0,55.0,5.00,mw,msms,340.0
+54808_22,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',22.0,55.0,5.00,mw,apex,1.5187833293899999E9
+54808_22,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',22.0,55.0,5.00,mw,annot,198.0
+54808_22,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',22.0,55.0,5.00,slot,msms,340.0
+54808_22,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',22.0,55.0,5.00,slot,apex,1.5187833293899999E9
+54808_22,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',22.0,55.0,5.00,slot,annot,198.0
+54808_24,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',24.0,60.0,5.00,mw,msms,334.0
+54808_24,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',24.0,60.0,5.00,mw,apex,2.3293874837599993E9
+54808_24,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',24.0,60.0,5.00,mw,annot,177.0
+54808_24,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',24.0,60.0,5.00,slot,msms,334.0
+54808_24,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',24.0,60.0,5.00,slot,apex,2.3293874837599993E9
+54808_24,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',24.0,60.0,5.00,slot,annot,177.0
+54808_26,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',26.0,65.0,5.00,mw,msms,356.0
+54808_26,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',26.0,65.0,5.00,mw,apex,1.37691866031E9
+54808_26,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',26.0,65.0,5.00,mw,annot,195.0
+54808_26,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',26.0,65.0,5.00,slot,msms,356.0
+54808_26,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',26.0,65.0,5.00,slot,apex,1.37691866031E9
+54808_26,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',26.0,65.0,5.00,slot,annot,195.0
+54808_28,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',28.0,70.0,5.00,mw,msms,334.0
+54808_28,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',28.0,70.0,5.00,mw,apex,1.1415762753400004E9
+54808_28,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',28.0,70.0,5.00,mw,annot,212.0
+54808_28,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',28.0,70.0,5.00,slot,msms,334.0
+54808_28,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',28.0,70.0,5.00,slot,apex,1.1415762753400004E9
+54808_28,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',28.0,70.0,5.00,slot,annot,212.0
+54808_30,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',30.0,75.0,5.00,mw,msms,344.0
+54808_30,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',30.0,75.0,5.00,mw,apex,9.885707833699996E8
+54808_30,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',30.0,75.0,5.00,mw,annot,217.0
+54808_30,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',30.0,75.0,5.00,slot,msms,344.0
+54808_30,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',30.0,75.0,5.00,slot,apex,9.885707833699996E8
+54808_30,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',30.0,75.0,5.00,slot,annot,217.0
+54808_32,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',32.0,80.0,5.00,mw,msms,323.0
+54808_32,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',32.0,80.0,5.00,mw,apex,9.520554656999999E8
+54808_32,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',32.0,80.0,5.00,mw,annot,173.0
+54808_32,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',32.0,80.0,5.00,slot,msms,323.0
+54808_32,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',32.0,80.0,5.00,slot,apex,9.520554656999999E8
+54808_32,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',32.0,80.0,5.00,slot,annot,173.0
+54808_34,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',34.0,85.0,5.00,mw,msms,345.0
+54808_34,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',34.0,85.0,5.00,mw,apex,9.125745277100002E8
+54808_34,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',34.0,85.0,5.00,mw,annot,201.0
+54808_34,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',34.0,85.0,5.00,slot,msms,345.0
+54808_34,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',34.0,85.0,5.00,slot,apex,9.125745277100002E8
+54808_34,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',34.0,85.0,5.00,slot,annot,201.0
+54808_36,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',36.0,90.0,5.00,mw,msms,292.0
+54808_36,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',36.0,90.0,5.00,mw,apex,9.540492728000001E8
+54808_36,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',36.0,90.0,5.00,mw,annot,175.0
+54808_36,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',36.0,90.0,5.00,slot,msms,292.0
+54808_36,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',36.0,90.0,5.00,slot,apex,9.540492728000001E8
+54808_36,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',36.0,90.0,5.00,slot,annot,175.0
+54808_38,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',38.0,95.0,5.00,mw,msms,318.0
+54808_38,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',38.0,95.0,5.00,mw,apex,6.9648439769E8
+54808_38,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',38.0,95.0,5.00,mw,annot,173.0
+54808_38,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',38.0,95.0,5.00,slot,msms,318.0
+54808_38,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',38.0,95.0,5.00,slot,apex,6.9648439769E8
+54808_38,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',38.0,95.0,5.00,slot,annot,173.0
+54808_40,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',40.0,100.0,5.00,mw,msms,324.0
+54808_40,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',40.0,100.0,5.00,mw,apex,1.0406087534300005E9
+54808_40,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',40.0,100.0,5.00,mw,annot,203.0
+54808_40,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',40.0,100.0,5.00,slot,msms,324.0
+54808_40,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',40.0,100.0,5.00,slot,apex,1.0406087534300005E9
+54808_40,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',40.0,100.0,5.00,slot,annot,203.0
+54808_42,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',42.0,105.0,5.00,mw,msms,281.0
+54808_42,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',42.0,105.0,5.00,mw,apex,7.616346550200003E8
+54808_42,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',42.0,105.0,5.00,mw,annot,143.0
+54808_42,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',42.0,105.0,5.00,slot,msms,281.0
+54808_42,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',42.0,105.0,5.00,slot,apex,7.616346550200003E8
+54808_42,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',42.0,105.0,5.00,slot,annot,143.0
+54808_44,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',44.0,110.0,5.00,mw,msms,274.0
+54808_44,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',44.0,110.0,5.00,mw,apex,5.792357399399998E8
+54808_44,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',44.0,110.0,5.00,mw,annot,157.0
+54808_44,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',44.0,110.0,5.00,slot,msms,274.0
+54808_44,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',44.0,110.0,5.00,slot,apex,5.792357399399998E8
+54808_44,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',44.0,110.0,5.00,slot,annot,157.0
+54808_46,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',46.0,115.0,5.00,mw,msms,266.0
+54808_46,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',46.0,115.0,5.00,mw,apex,4.282737503999999E8
+54808_46,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',46.0,115.0,5.00,mw,annot,132.0
+54808_46,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',46.0,115.0,5.00,slot,msms,266.0
+54808_46,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',46.0,115.0,5.00,slot,apex,4.282737503999999E8
+54808_46,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',46.0,115.0,5.00,slot,annot,132.0
+54808_48,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',48.0,120.0,5.00,mw,msms,292.0
+54808_48,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',48.0,120.0,5.00,mw,apex,5.1006822346E8
+54808_48,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',48.0,120.0,5.00,mw,annot,162.0
+54808_48,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',48.0,120.0,5.00,slot,msms,292.0
+54808_48,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',48.0,120.0,5.00,slot,apex,5.1006822346E8
+54808_48,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',48.0,120.0,5.00,slot,annot,162.0
+54808_50,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',50.0,125.0,5.00,mw,msms,332.0
+54808_50,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',50.0,125.0,5.00,mw,apex,2.972585883230001E8
+54808_50,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',50.0,125.0,5.00,mw,annot,186.0
+54808_50,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',50.0,125.0,5.00,slot,msms,332.0
+54808_50,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',50.0,125.0,5.00,slot,apex,2.972585883230001E8
+54808_50,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',50.0,125.0,5.00,slot,annot,186.0
+54808_52,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',52.0,130.0,5.00,mw,msms,263.0
+54808_52,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',52.0,130.0,5.00,mw,apex,3.194470780299997E8
+54808_52,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',52.0,130.0,5.00,mw,annot,134.0
+54808_52,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',52.0,130.0,5.00,slot,msms,263.0
+54808_52,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',52.0,130.0,5.00,slot,apex,3.194470780299997E8
+54808_52,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',52.0,130.0,5.00,slot,annot,134.0
+54808_54,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',54.0,135.0,5.00,mw,msms,286.0
+54808_54,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',54.0,135.0,5.00,mw,apex,5.6603264996E8
+54808_54,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',54.0,135.0,5.00,mw,annot,137.0
+54808_54,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',54.0,135.0,5.00,slot,msms,286.0
+54808_54,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',54.0,135.0,5.00,slot,apex,5.6603264996E8
+54808_54,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',54.0,135.0,5.00,slot,annot,137.0
+54808_56,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',56.0,140.0,5.00,mw,msms,295.0
+54808_56,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',56.0,140.0,5.00,mw,apex,3.346082463600003E8
+54808_56,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',56.0,140.0,5.00,mw,annot,151.0
+54808_56,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',56.0,140.0,5.00,slot,msms,295.0
+54808_56,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',56.0,140.0,5.00,slot,apex,3.346082463600003E8
+54808_56,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',56.0,140.0,5.00,slot,annot,151.0
+54808_58,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',58.0,145.0,5.00,mw,msms,327.0
+54808_58,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',58.0,145.0,5.00,mw,apex,5.241655155E8
+54808_58,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',58.0,145.0,5.00,mw,annot,166.0
+54808_58,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',58.0,145.0,5.00,slot,msms,327.0
+54808_58,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',58.0,145.0,5.00,slot,apex,5.241655155E8
+54808_58,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',58.0,145.0,5.00,slot,annot,166.0
+54808_60,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',60.0,150.0,5.00,mw,msms,341.0
+54808_60,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',60.0,150.0,5.00,mw,apex,7.798480551900002E8
+54808_60,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',60.0,150.0,5.00,mw,annot,196.0
+54808_60,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',60.0,150.0,5.00,slot,msms,341.0
+54808_60,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',60.0,150.0,5.00,slot,apex,7.798480551900002E8
+54808_60,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',60.0,150.0,5.00,slot,annot,196.0
+54808_62,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',62.0,155.0,5.00,mw,msms,236.0
+54808_62,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',62.0,155.0,5.00,mw,apex,6.0535618854E8
+54808_62,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',62.0,155.0,5.00,mw,annot,119.0
+54808_62,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',62.0,155.0,5.00,slot,msms,236.0
+54808_62,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',62.0,155.0,5.00,slot,apex,6.0535618854E8
+54808_62,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',62.0,155.0,5.00,slot,annot,119.0
+54808_64,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',64.0,160.0,5.00,mw,msms,249.0
+54808_64,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',64.0,160.0,5.00,mw,apex,4.2610132602000004E8
+54808_64,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',64.0,160.0,5.00,mw,annot,134.0
+54808_64,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',64.0,160.0,5.00,slot,msms,249.0
+54808_64,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',64.0,160.0,5.00,slot,apex,4.2610132602000004E8
+54808_64,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',64.0,160.0,5.00,slot,annot,134.0
+54808_66,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',66.0,165.0,5.00,mw,msms,261.0
+54808_66,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',66.0,165.0,5.00,mw,apex,4.8888539640999985E8
+54808_66,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',66.0,165.0,5.00,mw,annot,148.0
+54808_66,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',66.0,165.0,5.00,slot,msms,261.0
+54808_66,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',66.0,165.0,5.00,slot,apex,4.8888539640999985E8
+54808_66,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',66.0,165.0,5.00,slot,annot,148.0
+54808_68,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',68.0,170.0,5.00,mw,msms,261.0
+54808_68,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',68.0,170.0,5.00,mw,apex,6.196202251599998E8
+54808_68,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',68.0,170.0,5.00,mw,annot,146.0
+54808_68,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',68.0,170.0,5.00,slot,msms,261.0
+54808_68,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',68.0,170.0,5.00,slot,apex,6.196202251599998E8
+54808_68,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',68.0,170.0,5.00,slot,annot,146.0
+54808_70,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',70.0,175.0,5.00,mw,msms,244.0
+54808_70,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',70.0,175.0,5.00,mw,apex,6.236689847900001E8
+54808_70,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',70.0,175.0,5.00,mw,annot,125.0
+54808_70,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',70.0,175.0,5.00,slot,msms,244.0
+54808_70,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',70.0,175.0,5.00,slot,apex,6.236689847900001E8
+54808_70,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',70.0,175.0,5.00,slot,annot,125.0
+54808_72,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',72.0,180.0,5.00,mw,msms,273.0
+54808_72,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',72.0,180.0,5.00,mw,apex,6.3675838402E8
+54808_72,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',72.0,180.0,5.00,mw,annot,133.0
+54808_72,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',72.0,180.0,5.00,slot,msms,273.0
+54808_72,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',72.0,180.0,5.00,slot,apex,6.3675838402E8
+54808_72,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',72.0,180.0,5.00,slot,annot,133.0
+54808_74,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',74.0,185.0,5.00,mw,msms,297.0
+54808_74,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',74.0,185.0,5.00,mw,apex,6.562825566899999E8
+54808_74,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',74.0,185.0,5.00,mw,annot,173.0
+54808_74,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',74.0,185.0,5.00,slot,msms,297.0
+54808_74,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',74.0,185.0,5.00,slot,apex,6.562825566899999E8
+54808_74,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',74.0,185.0,5.00,slot,annot,173.0
+54808_76,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',76.0,190.0,5.00,mw,msms,295.0
+54808_76,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',76.0,190.0,5.00,mw,apex,6.837373993000001E8
+54808_76,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',76.0,190.0,5.00,mw,annot,169.0
+54808_76,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',76.0,190.0,5.00,slot,msms,295.0
+54808_76,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',76.0,190.0,5.00,slot,apex,6.837373993000001E8
+54808_76,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',76.0,190.0,5.00,slot,annot,169.0
+54808_78,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',78.0,195.0,5.00,mw,msms,270.0
+54808_78,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',78.0,195.0,5.00,mw,apex,7.086932372800003E8
+54808_78,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',78.0,195.0,5.00,mw,annot,161.0
+54808_78,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',78.0,195.0,5.00,slot,msms,270.0
+54808_78,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',78.0,195.0,5.00,slot,apex,7.086932372800003E8
+54808_78,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',78.0,195.0,5.00,slot,annot,161.0
+54808_80,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',80.0,200.0,5.00,mw,msms,292.0
+54808_80,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',80.0,200.0,5.00,mw,apex,9.089495552499996E8
+54808_80,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',80.0,200.0,5.00,mw,annot,193.0
+54808_80,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',80.0,200.0,5.00,slot,msms,292.0
+54808_80,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',80.0,200.0,5.00,slot,apex,9.089495552499996E8
+54808_80,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',80.0,200.0,5.00,slot,annot,193.0
+54808_82,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',82.0,205.0,5.00,mw,msms,310.0
+54808_82,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',82.0,205.0,5.00,mw,apex,8.364009768399998E8
+54808_82,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',82.0,205.0,5.00,mw,annot,212.0
+54808_82,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',82.0,205.0,5.00,slot,msms,310.0
+54808_82,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',82.0,205.0,5.00,slot,apex,8.364009768399998E8
+54808_82,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',82.0,205.0,5.00,slot,annot,212.0
+54808_84,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',84.0,210.0,5.00,mw,msms,309.0
+54808_84,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',84.0,210.0,5.00,mw,apex,8.955112275099999E8
+54808_84,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',84.0,210.0,5.00,mw,annot,211.0
+54808_84,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',84.0,210.0,5.00,slot,msms,309.0
+54808_84,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',84.0,210.0,5.00,slot,apex,8.955112275099999E8
+54808_84,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',84.0,210.0,5.00,slot,annot,211.0
+54808_86,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',86.0,215.0,5.00,mw,msms,253.0
+54808_86,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',86.0,215.0,5.00,mw,apex,1.0496223239199997E9
+54808_86,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',86.0,215.0,5.00,mw,annot,180.0
+54808_86,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',86.0,215.0,5.00,slot,msms,253.0
+54808_86,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',86.0,215.0,5.00,slot,apex,1.0496223239199997E9
+54808_86,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',86.0,215.0,5.00,slot,annot,180.0
+54808_88,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',88.0,220.0,5.00,mw,msms,303.0
+54808_88,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',88.0,220.0,5.00,mw,apex,9.577305889300001E8
+54808_88,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',88.0,220.0,5.00,mw,annot,218.0
+54808_88,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',88.0,220.0,5.00,slot,msms,303.0
+54808_88,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',88.0,220.0,5.00,slot,apex,9.577305889300001E8
+54808_88,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',88.0,220.0,5.00,slot,annot,218.0
+54808_90,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',90.0,225.0,5.00,mw,msms,345.0
+54808_90,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',90.0,225.0,5.00,mw,apex,9.776173545999998E8
+54808_90,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',90.0,225.0,5.00,mw,annot,234.0
+54808_90,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',90.0,225.0,5.00,slot,msms,345.0
+54808_90,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',90.0,225.0,5.00,slot,apex,9.776173545999998E8
+54808_90,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',90.0,225.0,5.00,slot,annot,234.0
+54808_92,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',92.0,230.0,5.00,mw,msms,409.0
+54808_92,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',92.0,230.0,5.00,mw,apex,8.5912598889E8
+54808_92,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',92.0,230.0,5.00,mw,annot,184.0
+54808_92,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',92.0,230.0,5.00,slot,msms,409.0
+54808_92,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',92.0,230.0,5.00,slot,apex,8.5912598889E8
+54808_92,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',92.0,230.0,5.00,slot,annot,184.0
+54808_94,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',94.0,235.0,5.00,mw,msms,128.0
+54808_94,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',94.0,235.0,5.00,mw,apex,2.5234339487000006E8
+54808_94,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',94.0,235.0,5.00,mw,annot,59.0
+54808_94,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',94.0,235.0,5.00,slot,msms,128.0
+54808_94,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',94.0,235.0,5.00,slot,apex,2.5234339487000006E8
+54808_94,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',94.0,235.0,5.00,slot,annot,59.0
+54808_96,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',96.0,240.0,5.00,mw,msms,4.0
+54808_96,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',96.0,240.0,5.00,mw,apex,119769.22200000001
+54808_96,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',96.0,240.0,5.00,mw,annot,0.0
+54808_96,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',96.0,240.0,5.00,slot,msms,4.0
+54808_96,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',96.0,240.0,5.00,slot,apex,119769.22200000001
+54808_96,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',96.0,240.0,5.00,slot,annot,0.0
+54808_98,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',98.0,245.0,5.00,mw,msms,1.0
+54808_98,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',98.0,245.0,5.00,mw,apex,0.0
+54808_98,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',98.0,245.0,5.00,mw,annot,0.0
+54808_98,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',98.0,245.0,5.00,slot,msms,1.0
+54808_98,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',98.0,245.0,5.00,slot,apex,0.0
+54808_98,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',98.0,245.0,5.00,slot,annot,0.0
+54808_100,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',100.0,250.0,5.00,mw,msms,0.0
+54808_100,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',100.0,250.0,5.00,mw,apex,0.0
+54808_100,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',100.0,250.0,5.00,mw,annot,0.0
+54808_100,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',100.0,250.0,5.00,slot,msms,0.0
+54808_100,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',100.0,250.0,5.00,slot,apex,0.0
+54808_100,54808,'20081129_Orbi6_NaNa_SA_FASP_blacktips_06','125 MCF7 cells, 75 ng total proteins',100.0,250.0,5.00,slot,annot,0.0

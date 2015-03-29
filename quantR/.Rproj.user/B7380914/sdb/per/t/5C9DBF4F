@@ -1,0 +1,16 @@
+{
+    "contents" : "vsCountry=function()\n{\n  gdp.india = Quandl(\"IMF/MAP_WEO_NGDP_IND\")\n  gdp.china = Quandl(\"IMF/MAP_WEO_NGDP_CHN\")\n  \n  gdp = cbind(gdp.china, gdp.india, by=c(\"Year\")); \n  colnames(gdp)=c(\"Year\",\"China\",\"Year2\",\"India\",\"By\");\n  \n  xyplot(China/India~Year, data=gdp, type=\"a\")\n}\n# Q. Does GDP per capita vs median household income indicative of the distortion in income distribution?\nGDPvsHouseholdIncome=function()\n{\n  gdp.capita = Quandl(\"USER_1GO/1GU\")\n  income = \n}",
+    "created" : 1379180309208.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2035467936",
+    "id" : "5C9DBF4F",
+    "lastKnownWriteTime" : 1384708749,
+    "path" : "~/Projects/R/quantR/codes/vsCountry.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
